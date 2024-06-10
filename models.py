@@ -1,8 +1,13 @@
+from datetime import datetime
 from typing import List, Optional
 
+from pytz import timezone
 from pydantic import BaseModel
 from sqlalchemy import JSON, Column, UniqueConstraint
 from sqlmodel import Field, SQLModel
+
+
+KST = timezone("Asia/Seoul")
 
 
 class Patient(SQLModel, table=True):
@@ -23,6 +28,7 @@ class Patient(SQLModel, table=True):
     is_family_history: bool = Field()
     is_drinking_alcohol: bool = Field()
     is_smoking: bool = Field()
+    created_at: datetime = Field(default_factory=lambda: datetime.now(KST))
 
 
 class QuestionBase(BaseModel):
@@ -62,10 +68,11 @@ class Question(QuestionBase, SQLModel, table=True):
     labeler: Optional[str] = Field(
         description="A field to store the name of the person who labeled the question."
     )
+    created_at: datetime = Field(default_factory=lambda: datetime.now(KST))
 
 
 if __name__ == "__main__":
-    from sqlmodel import create_engine, Session
+    from sqlmodel import create_engine
 
     sqlite_db = "cliniquery.db"
     sqlite_url = f"sqlite:///{sqlite_db}"
