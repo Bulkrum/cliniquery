@@ -5,7 +5,7 @@ from sqlmodel import Sequence, Session, create_engine, select
 from models import Patient, Question
 
 
-def load_patients(sqlite_name: str = "cliniquery.db") -> Sequence[Patient]:
+def load_patients(sqlite_name: str = "database.sqlite") -> Sequence[Patient]:
     sqlite_db = sqlite_name
     sqlite_url = f"sqlite:///{sqlite_db}"
     engine = create_engine(sqlite_url)
@@ -19,7 +19,7 @@ def load_patients(sqlite_name: str = "cliniquery.db") -> Sequence[Patient]:
     return patients
 
 
-def add_symptom(data: Dict, sqlite_name: str = "cliniquery.db"):
+def add_symptom(data: Dict, sqlite_name: str = "database.sqlite"):
     sqlite_db = sqlite_name
     sqlite_url = f"sqlite:///{sqlite_db}"
     engine = create_engine(sqlite_url)

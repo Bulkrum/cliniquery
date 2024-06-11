@@ -74,7 +74,7 @@ class Question(QuestionBase, SQLModel, table=True):
 if __name__ == "__main__":
     from sqlmodel import create_engine
 
-    sqlite_db = "cliniquery.db"
+    sqlite_db = "database.sqlite"
     sqlite_url = f"sqlite:///{sqlite_db}"
     engine = create_engine(sqlite_url)
     SQLModel.metadata.create_all(engine)
