@@ -110,3 +110,4 @@ venv.bak/
 
 # Mac OS
 .DS_Store
+log/ell.db

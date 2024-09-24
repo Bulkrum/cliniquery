@@ -1,0 +1,66 @@
+Id,Category,Common,Item,Question,Answer
+1,Chief complaint,Y,Chief complaint,병원에 방문하게된 가장 큰 이유가 무엇인가요?,직장암
+2,Chief complaint,Y,Duration,해당 증상은 언제부터 시작되었나요?,1개월 전
+3,Medical History,Y,Hypertension,고혈압을 진단 받은 적이 있나요?,네
+4,Medical History,Y,Diabetes mellitus,당뇨를 진단 받은 적이 있나요?,네
+5,Medical History,Y,Hepatitis,간염을 진단 받은 적이 있나요?,아니오
+6,Medical History,Y,Pulmonary tuberculosis,결핵을 진단 받은 적이 있나요?,아니오
+7,Medical History,Y,Cerebrovascular accident(CVA),뇌졸중을 진단 받은 적이 있나요?,이니오
+8,Medical History,Y,Cardiovascular disease,심혈관 질환을 진단 받은 적이 있나요?,부정맥
+9,Medical History,Y,Others,이외에 의료진에게 알려주고 싶은 질환이 있나요?,아니오
+10,Medical History,N,Colonoscopy,대장내시경 검사를 해보셨나요?,네
+11,Medical History,N,Colonoscopy,마지막 대장내시경은 언제하셨나요?,2015년
+12,Medical History,N,Colonoscopy,마지막 대장내시경의 결과는 어땠나요?,용종 2개 제거
+13,Surgical History,Y,Surgical history,수술을 받은 적이 있나요?,네
+14,Surgical History,Y,Surgical history,어떤 수술을 받으셨나요?,담낭절제술
+15,Surgical History,Y,Surgical history,수술 받은 이유가 무엇인가요?,담낭결석
+16,Surgical History,Y,Surgical history,언제 수술을 받으셨나요?,20년전
+17,Allergy,Y,Drug allergy,약물 알레르기가 있나요?,아니오
+18,Allergy,Y,Food allergy,음식 알레르기가 있나요?,아니오
+19,Medication,Y,Current Medication,현재 복용 중이신 약이 있나요?,"Norvasc 5mg 1T, 1일 1회, 아침 식후"
+23,Medication,Y,Past Medication(1year),최근 1년간 처방받은 약을 알려주세요.,{심평원 복약 데이터)
+24,Family history,Y,Family history,가족 병력이 있나요?,네
+25,Family history,Y,Family history,가족 병력에 대해 자세히 알려주세요.,"부, 고혈압 / 남동생, 대장암"
+26,Lifestyle,Y,Alcohol,음주를 하시나요?,네
+27,Lifestyle,Y,Alcohol,1주일에 몇 회 하시나요?,1회
+28,Lifestyle,Y,Alcohol,어떤 종류의 술을 얼마만큼 마시는지 알려주세요.,"맥주, 1-2잔"
+29,Lifestyle,Y,Smoking,흡연을 하시나요?,아니오
+30,Lifestyle,Y,Weight,체중이 어떻게 되시나요?,52kg
+31,Lifestyle,Y,Weight change,최근 체중의 변화가 있었나요?,없음
+32,Review of system,Y,General weakness,전신 쇠약감,N
+33,Review of system,Y,Easy fatigue,쉽게 피로해짐,Y
+34,Review of system,Y,Fever,열이 남,N
+35,Review of system,Y,Chill,몸이 참,N
+36,Review of system,Y,Headache,두통,N
+37,Review of system,Y,Dizziness,어지러움,N
+38,Review of system,Y,Insomnia,불면증,N
+39,Review of system,Y,Cough,기침,N
+40,Review of system,Y,Sputum,가래,N
+41,Review of system,Y,Dyspnea,숨이 참,N
+42,Review of system,Y,DOE,운동 시 숨이 참,N
+43,Review of system,Y,Chest pain,가슴 통증,N
+44,Review of system,Y,Palpitation,두근거림,N
+45,Review of system,Y,Hemoptysis,객혈,N
+46,Review of system,Y,Hematemesis,토혈,N
+47,Review of system,Y,Anorexia,무기력증,N
+48,Review of system,Y,Nausea,멀미,N
+49,Review of system,Y,Vomiting,구토,N
+50,Review of system,Y,Constipation,변비,Y
+51,Review of system,Y,Diarrhea,설사,N
+52,Review of system,Y,Abdominal pain,복통,N
+53,Review of system,Y,Abdominal discomfort,복부 불편감,N
+54,Review of system,Y,Hematochezia,혈변,Y
+55,Review of system,Y,Melena,흑색변,N
+56,Review of system,Y,Dysuria,소변 시 통증,N
+57,Review of system,Y,Oliguria,소변량 감소,N
+58,Review of system,Y,Hematuria,혈뇨,N
+59,Review of system,Y,Poor oral intake,식욕부진,N
+60,Review of system,N,Stool caliber change,대변 굵기 변화,Y
+61,Review of system,N,Anal pain,항문 통증,N
+62,Review of system,N,Pruritis ani,항문 가려움,N
+63,Review of system,N,Tenesmus,후중감(항문이나 직장에 무언가 남아있는 것 같은 불편한 느낌),Y
+64,Review of system,N,Discharge(soiling),대변이 묻어나오는 증상,N
+65,Review of system,N,Prolapsed anal mass,항문 종괴 돌출,N
+66,Review of system,N,Urinary incontinence,요실금,N
+67,Review of system,N,Fecal incontinence,변실금,N
+68,Review of system,Y,Others,기타 증상,N
