@@ -1,0 +1,45 @@
+{
+    "status": "succeed",
+    "data": [
+        {
+            "id": "f3c80fca-8ffa-429b-b1ae-ebc3f7cea532",
+            "name_kor": "Chief complaints",
+            "name_eng": "Chief complaints"
+        },
+        {
+            "id": "ead113ca-1cb4-49de-ba0d-11bafe913c5a",
+            "name_kor": "Past medical history",
+            "name_eng": "Past medical history"
+        },
+        {
+            "id": "f331226f-72a0-41a2-b1cf-cb3eb74d38fe",
+            "name_kor": "Past surgical history",
+            "name_eng": "Past surgical history"
+        },
+        {
+            "id": "360be3a9-e671-43cf-a841-45c3a1bb939c",
+            "name_kor": "Medication",
+            "name_eng": "Medication"
+        },
+        {
+            "id": "efc2ac4b-4740-41a8-a400-1ca84949926d",
+            "name_kor": "Family history",
+            "name_eng": "Family history"
+        },
+        {
+            "id": "ce11ba25-2402-4251-9f3d-a1ccd34a0c9b",
+            "name_kor": "Review of system",
+            "name_eng": "Review of system"
+        },
+        {
+            "id": "2eb2359a-f378-4540-9158-a5d343cef922",
+            "name_kor": "Allergy",
+            "name_eng": "Allergy"
+        },
+        {
+            "id": "6d35d0b5-7ef6-4502-9dab-940b80d89ede",
+            "name_kor": "Lifestyle",
+            "name_eng": "Lifestyle"
+        }
+    ]
+}

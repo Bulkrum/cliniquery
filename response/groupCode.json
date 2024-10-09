@@ -1,0 +1,5141 @@
+{
+    "status": "succeed",
+    "data": [
+        {
+            "id": "2735303c-fbe5-4f30-8761-39b4b752b34b",
+            "code": "A19",
+            "name": "A19",
+            "kor_name": "좁쌀결핵",
+            "eng_name": "Miliary tuberculosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9e7aa9cf-78a0-40e8-981d-ebe8427d5218",
+            "code": "A18",
+            "name": "A18",
+            "kor_name": "기타 기관의 결핵",
+            "eng_name": "Tuberculosis of other organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ba30d79b-0d7c-4395-ab84-b082ede9862a",
+            "code": "A18.4",
+            "name": "A18.4",
+            "kor_name": "피부 및 피하조직의 결핵",
+            "eng_name": "Tuberculosis of skin and subcutaneous tissue",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "bcb0327d-b336-4657-8ea6-bd2aae0ea19c",
+            "code": "A18.7",
+            "name": "A18.7",
+            "kor_name": "부신의 결핵(E35.1*)",
+            "eng_name": "Tuberculosis of adrenal glands(E35.1*)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "74106d92-06a6-4bb1-a330-a84a9178ec75",
+            "code": "A18.8",
+            "name": "A18.8",
+            "kor_name": "기타 명시된 기관의 결핵",
+            "eng_name": "Tuberculosis of other specified organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "23a5a573-f010-4ce0-a93e-71de02aaeaf9",
+            "code": "A20-A28",
+            "name": "A20-A28",
+            "kor_name": "특정 동물매개의 세균성 질환(A20-A28)",
+            "eng_name": "Certain zoonotic bacterial diseases(A20-A28)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "743b3476-754b-406c-a0de-52b221475711",
+            "code": "A30",
+            "name": "A30",
+            "kor_name": "나병[한센병]",
+            "eng_name": "Leprosy[Hansen’s disease]",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d5d28cd2-5254-4d14-871a-dca3edbe1307",
+            "code": "A31",
+            "name": "A31",
+            "kor_name": "기타 형태의 마이코박테리아에 의한 감염",
+            "eng_name": "Infection due to other mycobacteria",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ec05f7c7-f1a9-4f5e-8920-24170374d840",
+            "code": "A32",
+            "name": "A32",
+            "kor_name": "리스테리아증",
+            "eng_name": "Listeriosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e015e6e4-a85c-4be6-bfa3-a21c16dc5bd3",
+            "code": "A33",
+            "name": "A33",
+            "kor_name": "신생아파상풍",
+            "eng_name": "Tetanus neonatorum",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b2c5bc9f-5cce-48c5-8013-5a55e824271c",
+            "code": "A34",
+            "name": "A34",
+            "kor_name": "산과적 파상풍",
+            "eng_name": "Obstetrical tetanus",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "229f8dab-3d46-4b25-9a34-2b468d7c8c35",
+            "code": "A35",
+            "name": "A35",
+            "kor_name": "기타 파상풍",
+            "eng_name": "Other tetanus",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b8b6b9e9-c74e-4e71-913e-18a0be75cd84",
+            "code": "A36",
+            "name": "A36",
+            "kor_name": "디프테리아",
+            "eng_name": "Diphtheria",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "af5fa3c8-67d4-4e38-81f6-08eed0cc4cfa",
+            "code": "A37",
+            "name": "A37",
+            "kor_name": "백일해",
+            "eng_name": "Whooping cough",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "fd325397-69f0-4194-a6de-21050aa9604b",
+            "code": "A38",
+            "name": "A38",
+            "kor_name": "성홍열",
+            "eng_name": "Scarlet fever",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c9ccaa3c-1b64-430f-9907-4ccedec4e7a1",
+            "code": "A39",
+            "name": "A39",
+            "kor_name": "수막알균감염",
+            "eng_name": "Meningococcal infection",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "aad5d62a-c83b-4c7b-b63a-1afd60c47765",
+            "code": "A40",
+            "name": "A40",
+            "kor_name": "연쇄알균패혈증",
+            "eng_name": "Streptococcal sepsis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c79a26a1-3794-47e6-9052-e33809dcae52",
+            "code": "A41",
+            "name": "A41",
+            "kor_name": "기타 패혈증",
+            "eng_name": "Other sepsis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1d50272a-182d-407c-bb04-ba53a507e0a8",
+            "code": "A42",
+            "name": "A42",
+            "kor_name": "방선균증",
+            "eng_name": "Actinomycosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b2f6940d-391d-47b8-821d-395b8c4b3cf7",
+            "code": "A43",
+            "name": "A43",
+            "kor_name": "노카르디아증",
+            "eng_name": "Nocardiosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "712a2834-2ff0-49e9-b09b-e2a74038d4e0",
+            "code": "A44",
+            "name": "A44",
+            "kor_name": "바르토넬라병",
+            "eng_name": "Bartonellosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e3df862b-b222-465a-94a4-273504cfb052",
+            "code": "A46",
+            "name": "A46",
+            "kor_name": "단독(丹毒)",
+            "eng_name": "Erysipelas",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d361cb6c-e50e-4e68-bd97-0837ecbce1be",
+            "code": "A48",
+            "name": "A48",
+            "kor_name": "달리 분류되지 않은 기타 세균성 질환",
+            "eng_name": "Other bacterial diseases, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ac0a82f8-c966-42e4-a177-d62e67be8530",
+            "code": "A48.0",
+            "name": "A48.0",
+            "kor_name": "가스괴저",
+            "eng_name": "Gas gangrene",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "384d55c0-5aa2-4db6-8a01-8d7ed06e1d83",
+            "code": "A48.1",
+            "name": "A48.1",
+            "kor_name": "재향군인병",
+            "eng_name": "Legionnaires’ disease",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "cae5f785-5fdd-4711-9909-b11a590329fb",
+            "code": "A48.2",
+            "name": "A48.2",
+            "kor_name": "비폐렴성 재향군인병[폰티액열]",
+            "eng_name": "Nonpneumonic Legionnaires’ disease [Pontiac fever]",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "336133e3-6243-48b4-b832-1605e90af350",
+            "code": "A48.3",
+            "name": "A48.3",
+            "kor_name": "독성쇼크증후군",
+            "eng_name": "Toxic shock syndrome",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "67d01958-7882-49af-9a44-ce495ee9b398",
+            "code": "A48.4",
+            "name": "A48.4",
+            "kor_name": "브라질자반열",
+            "eng_name": "Brazilian purpuric fever",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7df52cb9-250f-4b20-a360-5bd4f91e0115",
+            "code": "A48.8",
+            "name": "A48.8",
+            "kor_name": "기타 명시된 세균성 질환",
+            "eng_name": "Other specified bacterial diseases",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "848f95ed-2ef0-4378-b497-475865479b0b",
+            "code": "A49",
+            "name": "A49",
+            "kor_name": "상세불명 부위의 세균감염",
+            "eng_name": "Bacterial infection of unspecified site",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4178d02f-ecfc-4279-ab42-c3d52ba24332",
+            "code": "A50-A64",
+            "name": "A50-A64",
+            "kor_name": "주로 성행위로 전파되는 감염(A50-A64)",
+            "eng_name": "Infections with a predominantly sexual mode of transmission(A50-A64)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "084bf0a0-0d36-4f46-aa12-e939756e414d",
+            "code": "A65-A69",
+            "name": "A65-A69",
+            "kor_name": "기타 스피로헤타질환(A65-A69)",
+            "eng_name": "Other spirochaetal diseases(A65-A69)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5831b3cd-1497-4c28-837a-bed8d29dd5c8",
+            "code": "A70-A74",
+            "name": "A70-A74",
+            "kor_name": "클라미디아에 의한 기타 질환(A70-A74)",
+            "eng_name": "Other diseases caused by chlamydiae(A70-A74)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "cf40a6b0-64fc-4a97-ae8a-4020ec095681",
+            "code": "A75-A79",
+            "name": "A75-A79",
+            "kor_name": "리케차병(A75-A79)",
+            "eng_name": "Rickettsioses(A75-A79)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a1eb0825-aaa0-46c2-be6e-3516f1a5ed90",
+            "code": "A80-A89",
+            "name": "A80-A89",
+            "kor_name": "중추신경계통의 바이러스감염(A80-A89)",
+            "eng_name": "Viral infections of the central nervous system(A80-A89)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0f31577a-996e-4418-b572-0937db1e93df",
+            "code": "C51-C58",
+            "name": "C51-C58",
+            "kor_name": "여성생식기관의 악성 신생물(C51-C58)",
+            "eng_name": "Malignant neoplasms of female genital organs(C51-C58)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a864f3c1-1054-4f09-bf81-2d809bf72572",
+            "code": "A92-A99",
+            "name": "A92-A99",
+            "kor_name": "절지동물매개의 바이러스열 및 바이러스출혈열(A92-A99)",
+            "eng_name": "Arthropod-borne viral fevers and viral haemorrhagic fevers(A92-A99)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "adb40aa0-27af-40a0-a96f-59ba8e5c4752",
+            "code": "B00-B09",
+            "name": "B00-B09",
+            "kor_name": "피부 및 점막병변이 특징인 바이러스감염(B00-B09)",
+            "eng_name": "Viral infections characterized by skin and mucous membrane lesions(B00-B09)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "bafe149c-c049-4a90-adce-cd4a58ccf066",
+            "code": "A00-A09",
+            "name": "A00-A09",
+            "kor_name": "장 감염 질환(A00-A09)",
+            "eng_name": "Intestinal Infectious Diseases(A00-A09)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4358739b-5b16-4e34-be05-ee9100604d9c",
+            "code": "A18.5",
+            "name": "A18.5",
+            "kor_name": "눈의 결핵",
+            "eng_name": "Tuberculosis of eye",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a96f31dd-5c9b-40a3-ad43-825b25b2cb81",
+            "code": "A18.2",
+            "name": "A18.2",
+            "kor_name": "결핵성 말초림프절병증",
+            "eng_name": "Tuberculous peripheral lymphadenopathy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d7c368ea-0134-4552-99a9-c44334f6b05d",
+            "code": "A18.0",
+            "name": "A18.0",
+            "kor_name": "골 및 관절의 결핵",
+            "eng_name": "Tuberculosis of bones and joints",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c9848fb1-ed16-4bdd-9e90-56936a9af4b7",
+            "code": "A18.6",
+            "name": "A18.6",
+            "kor_name": "귀의 결핵",
+            "eng_name": "Tuberculosis of ear",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c1adb964-4074-4d28-b833-e48731ca9ae9",
+            "code": "A18.3",
+            "name": "A18.3",
+            "kor_name": "장, 복막 및 장간막 림프절의 결핵",
+            "eng_name": "Tuberculosis of intestines, peritoneum and mesenteric glands",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f9f19bfa-3436-41bc-baa7-873e0b80f57b",
+            "code": "A18.1",
+            "name": "A18.1",
+            "kor_name": "비뇨생식계통의 결핵",
+            "eng_name": "Tuberculosis of genitourinary system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "50bf1fcc-0e30-4fa5-8383-4a15ad9108f4",
+            "code": "B35-B49",
+            "name": "B35-B49",
+            "kor_name": "진균증(B35-B49)",
+            "eng_name": "Mycoses(B35-B49)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "45c6f5dc-8049-4cbd-bbb3-509edc3c5f87",
+            "code": "B50-B89",
+            "name": "B50-B89",
+            "kor_name": "B50-B89",
+            "eng_name": "B50-B89",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c01c91d0-247b-4d75-8db0-15b4c6ae0f34",
+            "code": "B15-B19",
+            "name": "B15-B19",
+            "kor_name": "바이러스간염(B15-B19)",
+            "eng_name": "Viral hepatitis(B15-B19)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5d5b43b4-b943-4a90-921d-8d2049833f86",
+            "code": "B25",
+            "name": "B25",
+            "kor_name": "거대세포바이러스병",
+            "eng_name": "Cytomegaloviral disease",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "96d8d484-c44c-4811-aa78-f51643717883",
+            "code": "B26",
+            "name": "B26",
+            "kor_name": "볼거리",
+            "eng_name": "Mumps",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5362553b-9c1b-43c3-97e4-c9bb3ce1ea3c",
+            "code": "B27",
+            "name": "B27",
+            "kor_name": "감염성 단핵구증",
+            "eng_name": "Infectious mononucleosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e9b432b8-ce03-42f2-a428-48a128eebd97",
+            "code": "B30",
+            "name": "B30",
+            "kor_name": "바이러스결막염",
+            "eng_name": "Viral conjunctivitis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3ea43760-035f-46d9-8ec4-0e174ff64d2d",
+            "code": "B90-B94",
+            "name": "B90-B94",
+            "kor_name": "감염성 및 기생충질환의 후유증(B90-B94)",
+            "eng_name": "Sequelae of infectious and parasitic diseases(B90-B94)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a9c1b35f-5c9c-457e-82c6-8785e7afb891",
+            "code": "B95-B98",
+            "name": "B95-B98",
+            "kor_name": "세균, 바이러스 및 기타 감염체(B95-B98)",
+            "eng_name": "Bacterial, viral and other infectious agents(B95-B98)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5c2b8b29-afee-4718-a31a-9d494ced326b",
+            "code": "C00-C14",
+            "name": "C00-C14",
+            "kor_name": "입술, 구강 및 인두의 악성 신생물(C00-C14)",
+            "eng_name": "Malignant neoplasms of lip, oral cavity and pharynx(C00-C14)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8ca09fa0-207c-4c83-bf79-821414e9e59b",
+            "code": "B99",
+            "name": "B99",
+            "kor_name": "기타 감염성 질환(B99)",
+            "eng_name": "Other infectious diseases(B99)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5cb31819-c115-40bd-8535-304338de126b",
+            "code": "C15",
+            "name": "C15",
+            "kor_name": "식도의 악성 신생물",
+            "eng_name": "Malignant neoplasm of oesophagus",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f2090ab7-9aec-4e6e-818b-53b616730baf",
+            "code": "C16",
+            "name": "C16",
+            "kor_name": "위의 악성 신생물",
+            "eng_name": "Malignant neoplasm of stomach",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "46f17608-ce25-4d9b-a4cb-86d10d0f7f31",
+            "code": "C17",
+            "name": "C17",
+            "kor_name": "소장의 악성 신생물",
+            "eng_name": "Malignant neoplasm of small intestine",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a4637eb5-5faa-4b93-bc25-4c8f5a322c20",
+            "code": "C18",
+            "name": "C18",
+            "kor_name": "결장의 악성 신생물",
+            "eng_name": "Malignant neoplasm of colon",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "179b8ee4-a35c-4877-a23c-267837c37cba",
+            "code": "C21",
+            "name": "C21",
+            "kor_name": "항문 및 항문관의 악성 신생물",
+            "eng_name": "Malignant neoplasm of anus and anal canal",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1f1b2c97-7b9d-46d9-932d-0ddc04a13eea",
+            "code": "C22",
+            "name": "C22",
+            "kor_name": "간 및 간내 담관의 악성 신생물",
+            "eng_name": "Malignant neoplasm of liver and intrahepatic bile ducts",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "475cd733-99e5-4b7b-a61d-b8e54e84162b",
+            "code": "C23",
+            "name": "C23",
+            "kor_name": "담낭의 악성 신생물",
+            "eng_name": "Malignant neoplasm of gallbladder",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ce8ec149-376f-4ab0-b2aa-1bb34524d1f3",
+            "code": "C24",
+            "name": "C24",
+            "kor_name": "담도의 기타 및 상세불명 부분의 악성 신생물",
+            "eng_name": "Malignant neoplasm of other and unspecified parts of biliary tract",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2ff7919c-cb55-49db-896c-2513eb5a23c3",
+            "code": "C25",
+            "name": "C25",
+            "kor_name": "췌장의 악성 신생물",
+            "eng_name": "Malignant neoplasm of pancreas",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6de4acc8-5cfc-4398-8e1f-efd1da55d969",
+            "code": "C26",
+            "name": "C26",
+            "kor_name": "기타 및 부위불명 소화기관의 악성 신생물",
+            "eng_name": "Malignant neoplasm of other and ill-defined digestive organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1568e803-cc39-4d3f-a658-7ff0207b51d9",
+            "code": "C26.0",
+            "name": "C26.0",
+            "kor_name": "상세불명 부분의 장관의 악성 신생물",
+            "eng_name": "Malignant neoplasm of intestinal tract, part unspecified",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1d263bea-be78-4a02-a4ed-3df45eb94bb4",
+            "code": "C26.1",
+            "name": "C26.1",
+            "kor_name": "비장의 악성 신생물",
+            "eng_name": "Malignant neoplasm of spleen",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "46934029-219c-4391-8b36-72b059b78d86",
+            "code": "C30-C39",
+            "name": "C30-C39",
+            "kor_name": "호흡기 및 흉곽내기관의 악성 신생물(C30-C39)",
+            "eng_name": "Malignant neoplasms of respiratory and intrathoracic organs(C30-C39)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "eb6ec003-ff37-459b-ba40-f9ed8ecf80ee",
+            "code": "C40-C41",
+            "name": "C40-C41",
+            "kor_name": "골 및 관절연골의 악성 신생물(C40-C41)",
+            "eng_name": "Malignant neoplasms of bone and articular cartilage(C40-C41)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "00c2c5bd-4185-4999-9758-ec0ac9192c91",
+            "code": "C43-C44",
+            "name": "C43-C44",
+            "kor_name": "흑색종 및 기타 피부의 악성 신생물(C43-C44)",
+            "eng_name": "Melanoma and other malignant neoplasms of skin(C43-C44)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "199f2169-4c3a-4266-b672-a055ee4ff6f1",
+            "code": "C45-C49",
+            "name": "C45-C49",
+            "kor_name": "중피성 및 연조직의 악성 신생물(C45-C49)",
+            "eng_name": "Malignant neoplasms of mesothelial and soft tissue(C45-C49)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9fda309e-fbc4-43be-bf08-d965a1546cf6",
+            "code": "C50",
+            "name": "C50",
+            "kor_name": "유방의 악성 신생물(C50)",
+            "eng_name": "Malignant neoplasm of breast(C50)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ac0c02ba-bdd1-4d8d-902d-912617faf4b9",
+            "code": "C60-C63",
+            "name": "C60-C63",
+            "kor_name": "남성생식기관의 악성 신생물(C60-C63)",
+            "eng_name": "Malignant neoplasms of male genital organs(C60-C63)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7d057fc6-7cc6-4e42-a1f3-89e9bf467498",
+            "code": "C64-C68",
+            "name": "C64-C68",
+            "kor_name": "요로의 악성 신생물(C64-C68)",
+            "eng_name": "Malignant neoplasms of urinary tract(C64-C68)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6e37f53d-c749-4445-8c2e-6ded7d1db076",
+            "code": "D16",
+            "name": "D16",
+            "kor_name": "골 및 관절연골의 양성 신생물",
+            "eng_name": "Benign neoplasm of bone and articular cartilage",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b1305d0b-6c30-44e0-965e-18228749a33e",
+            "code": "C69",
+            "name": "C69",
+            "kor_name": "눈 및 부속기의 악성 신생물",
+            "eng_name": "Malignant neoplasm of eye and adnexa",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5cc3364e-efca-4ba2-88e3-a5b608b4a349",
+            "code": "C81-C96",
+            "name": "C81-C96",
+            "kor_name": "림프, 조혈 및 관련 조직의 악성 신생물(C81-C96)",
+            "eng_name": "Malignant neoplasms of lymphoid, haematopoietic and related tissue(C81-C96)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c0d1d177-fd90-423b-ad78-a02a2f777d81",
+            "code": "C73",
+            "name": "C73",
+            "kor_name": "갑상선의 악성 신생물",
+            "eng_name": "Malignant neoplasm of thyroid gland",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6dc91e03-8306-4209-9bf8-19ba89d5f2c2",
+            "code": "C74",
+            "name": "C74",
+            "kor_name": "부신의 악성 신생물",
+            "eng_name": "Malignant neoplasm of adrenal gland",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3c820fc1-6a55-461e-9063-fdd143e634a5",
+            "code": "C75",
+            "name": "C75",
+            "kor_name": "기타 내분비선 및 관련 구조물의 악성 신생물",
+            "eng_name": "Malignant neoplasm of other endocrine glands and related structures",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3fd713e1-0a4a-4f2d-92e4-fbfcd95b84ee",
+            "code": "C76",
+            "name": "C76",
+            "kor_name": "기타 및 부위불명의 악성 신생물",
+            "eng_name": "Malignant neoplasm of other and ill-defined sites",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c2cf8ca3-0355-4542-878d-c1450b411f72",
+            "code": "C77",
+            "name": "C77",
+            "kor_name": "림프절의 이차성 및 상세불명의 악성 신생물",
+            "eng_name": "Secondary and unspecified malignant neoplasm of lymph nodes",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "10948fb9-6122-4c9f-83e1-ef4b441f5a38",
+            "code": "C78",
+            "name": "C78",
+            "kor_name": "호흡 및 소화기관의 이차성 악성 신생물",
+            "eng_name": "Secondary malignant neoplasm of respiratory and digestive organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c56d5e23-07bc-471c-a396-291de856f5ed",
+            "code": "G43-G44",
+            "name": "G43-G44",
+            "kor_name": "편두통, 기타 두통증후군",
+            "eng_name": "Migraine, Other headache syndromes",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7e72d571-bc64-4d6b-9b41-8ebe724e07f4",
+            "code": "C97",
+            "name": "C97",
+            "kor_name": "독립된(원발성) 여러 부위의 악성 신생물(C97)",
+            "eng_name": "Malignant neoplasms of independent (primary) multiple sites(C97)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "073cda88-8c2d-4405-8a38-8bfd008d7c41",
+            "code": "D02",
+            "name": "D02",
+            "kor_name": "중이 및 호흡계통의 제자리암종",
+            "eng_name": "Carcinoma in situ of middle ear and respiratory system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "29123969-eca1-4fb4-9812-76c9dfb4a067",
+            "code": "B20-B24",
+            "name": "B20-B24",
+            "kor_name": "사람면역결핍바이러스병(B20-B24)",
+            "eng_name": "Human immunodeficiency virus[HIV] disease(B20-B24)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f6a80924-5333-4452-bfc4-db7d3ad694a0",
+            "code": "D01",
+            "name": "D01",
+            "kor_name": "기타 및 상세불명의 소화기관의 제자리암종",
+            "eng_name": "Carcinoma in situ of other and unspecified digestive organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "81087a38-08ad-4d2b-bb53-4d32b146ef8c",
+            "code": "D01.5",
+            "name": "D01.5",
+            "kor_name": "간, 담낭 및 담관의 제자리암종 ",
+            "eng_name": "Carcinoma in situ of liver, gallbladder and bile ducts",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ca283994-1b13-4d1d-a911-cd6c9a0b6689",
+            "code": "D01.7",
+            "name": "D01.7",
+            "kor_name": "기타 명시된 소화기관의 제자리암종",
+            "eng_name": "Carcinoma in situ of other specified digestive organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "338007f8-dc84-4ebc-8467-660dc8bc2a43",
+            "code": "D01.70",
+            "name": "D01.70",
+            "kor_name": "췌장의 제자리암종",
+            "eng_name": "Carcinoma in situ of pancreas",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4b9ecbe3-2e6e-47d6-872a-c3bb0366789e",
+            "code": "D01.78",
+            "name": "D01.78",
+            "kor_name": "기타 명시된 소화기관의 제자리암종",
+            "eng_name": "Carcinoma in situ of other specified digestive organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c763e4cf-990a-4860-9db1-72cc5ccfee2c",
+            "code": "D01.9",
+            "name": "D01.9",
+            "kor_name": "상세불명의 소화기관의 제자리암종",
+            "eng_name": "Carcinoma in situ of digestive organ, unspecified",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c2ddc852-3969-41d7-b96a-c2eeebb110c0",
+            "code": "D04",
+            "name": "D04",
+            "kor_name": "피부의 제자리암종",
+            "eng_name": "Carcinoma in situ of skin",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "89b42f44-18e5-4030-a6e8-8634c7ba64dc",
+            "code": "D05",
+            "name": "D05",
+            "kor_name": "유방의 제자리암종",
+            "eng_name": "Carcinoma in situ of breast",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1333b54e-1cb1-42d3-b545-e736e0537d0d",
+            "code": "D06",
+            "name": "D06",
+            "kor_name": "자궁경부의 제자리암종",
+            "eng_name": "Carcinoma in situ of cervix uteri",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d9dc52b3-9a38-44f3-a75b-dfcc5580854a",
+            "code": "D07",
+            "name": "D07",
+            "kor_name": "기타 및 상세불명의 생식기관의 제자리암종",
+            "eng_name": "Carcinoma in situ of other and unspecified genital organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1fb9e1c6-060f-4702-8d6c-f78405e68ab7",
+            "code": "D09",
+            "name": "D09",
+            "kor_name": "기타 및 상세불명 부위의 제자리암종",
+            "eng_name": "Carcinoma in situ of other and unspecified sites",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "95850c6b-edaa-40c1-9de7-4c32245d6cfb",
+            "code": "D09.2",
+            "name": "D09.2",
+            "kor_name": "눈의 제자리암종 ",
+            "eng_name": "Carcinoma in situ of eye",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "88cd01b8-b89a-4491-9557-4df4b813f9bc",
+            "code": "D09.3",
+            "name": "D09.3",
+            "kor_name": "갑상선 및 기타 내분비선의 제자리암종",
+            "eng_name": "Carcinoma in situ of thyroid and other endocrine glands",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "16ee7ce9-467d-4929-be05-5c352b763cd4",
+            "code": "D12",
+            "name": "D12",
+            "kor_name": "결장, 직장, 항문 및 항문관의 양성 신생물 ",
+            "eng_name": "Benign neoplasm of colon, rectum, anus and anal canal",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "94f5bae3-e081-40e9-a5e3-ed935680de89",
+            "code": "D13",
+            "name": "D13",
+            "kor_name": "기타 및 부위불명의 소화계통의 양성 신생물",
+            "eng_name": "Benign neoplasm of other and ill-defined parts of digestive system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1dc955c2-d4e0-4509-94e7-50a65f64a864",
+            "code": "D13.4",
+            "name": "D13.4",
+            "kor_name": "간의 양성 신생물 ",
+            "eng_name": "Benign neoplasm of liver",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6a18b931-14d4-485a-8567-4aeb79fdbccf",
+            "code": "D13.5",
+            "name": "D13.5",
+            "kor_name": "간외담관의 양성 신생물",
+            "eng_name": "Benign neoplasm of extrahepatic bile ducts",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9b14c35f-66d5-4b1b-86b9-c25412c974f0",
+            "code": "D14",
+            "name": "D14",
+            "kor_name": "중이 및 호흡계통의 양성 신생물",
+            "eng_name": "Benign neoplasm of middle ear and respiratory system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4ce0fda1-a0a4-45bd-bc28-979797543c43",
+            "code": "D15",
+            "name": "D15",
+            "kor_name": "기타 및 상세불명의 흉곽내기관의 양성 신생물",
+            "eng_name": "Benign neoplasm of other and unspecified intrathoracic organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9c427740-d78b-4e3c-af71-c6becac9e21e",
+            "code": "D17",
+            "name": "D17",
+            "kor_name": "양성 지방종성 신생물",
+            "eng_name": "Benign lipomatous neoplasm",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e7051fa1-87ad-406d-a5d0-45f4cb785f02",
+            "code": "D17.4",
+            "name": "D17.4",
+            "kor_name": "흉곽내기관의 양성 지방종성 신생물",
+            "eng_name": "Benign lipomatous neoplasm of intrathoracic organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3dce65df-a09e-4541-88a2-12c0f9249679",
+            "code": "D17.5",
+            "name": "D17.5",
+            "kor_name": "복강내기관의 양성 지방종성 신생물",
+            "eng_name": "Benign lipomatous neoplasm of intra-abdominal organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "45da6fd1-781a-46d1-ae05-375b166fd178",
+            "code": "D17.6",
+            "name": "D17.6",
+            "kor_name": "정삭의 양성 지방종성 신생물",
+            "eng_name": "Benign lipomatous neoplasm of spermatic cord",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8b0773a2-47ac-40c6-b1d8-6e9f2f805cbb",
+            "code": "D18",
+            "name": "D18",
+            "kor_name": "모든 부위의 혈관종 및 림프관종",
+            "eng_name": "Haemangioma and lymphangioma, any site",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2da31fbb-8d2b-4497-a9f6-ae5198b26406",
+            "code": "D18.00",
+            "name": "D18.00",
+            "kor_name": "피부 및 피하조직의 혈관종",
+            "eng_name": "Hemangioma of skin and subcutaneous tissue",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6afe70ed-e2cb-424b-84ba-a32cbb64581a",
+            "code": "D18.01",
+            "name": "D18.01",
+            "kor_name": "두개내 구조물의 혈관종",
+            "eng_name": "Hemangioma of intracranial structures",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6757f512-cbda-41ac-8027-68b35bb799c3",
+            "code": "D18.02",
+            "name": "D18.02",
+            "kor_name": "간담도계의 혈관종",
+            "eng_name": "Hemangioma of hepatobiliary system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b7da16c4-d73a-40d5-92a4-05ecf243ec5c",
+            "code": "D18.03",
+            "name": "D18.03",
+            "kor_name": "소화계의 혈관종",
+            "eng_name": "Hemangioma of digestive system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "48c0bc01-a4e7-4f65-824e-2562fd2afd9b",
+            "code": "D18.04",
+            "name": "D18.04",
+            "kor_name": "귀, 코, 입 및 목구멍의 혈관종",
+            "eng_name": "Hemangioma of ear, nose, mouth and throat",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "96622da6-963f-4f35-ab88-f4185bf5ba26",
+            "code": "D18.08",
+            "name": "D18.08",
+            "kor_name": "기타 부위의 혈관종",
+            "eng_name": "Hemangioma of other sites",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7c7ebb70-3212-4a6a-ab4c-81dbae2bf5a6",
+            "code": "D18.09",
+            "name": "D18.09",
+            "kor_name": "상세불명 부위의 혈관종",
+            "eng_name": "Hemangioma unspecified site",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ef5672b2-647c-4bd2-bdf7-873ca7f17a73",
+            "code": "D18.1",
+            "name": "D18.1",
+            "kor_name": "림프관종, 모든 부위",
+            "eng_name": "Lymphangioma, any site",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ea4718a4-12dc-41ae-9d35-5caa6f39eef3",
+            "code": "D19",
+            "name": "D19",
+            "kor_name": "중피조직의 양성 신생물",
+            "eng_name": "Benign neoplasm of mesothelial tissue",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3e2b8317-6b96-415d-a101-84a1af7ecb14",
+            "code": "D20",
+            "name": "D20",
+            "kor_name": "후복막 및 복막 연조직의 양성 신생물",
+            "eng_name": "Benign neoplasm of soft tissue of retroperitoneum and peritoneum",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c6e627b5-eb87-47d2-85b1-176d6ecd1ac4",
+            "code": "D24",
+            "name": "D24",
+            "kor_name": "유방의 양성 신생물",
+            "eng_name": "Benign neoplasm of breast",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "cab1cc32-da06-43cd-ab58-7efeb7fb8c80",
+            "code": "D29",
+            "name": "D29",
+            "kor_name": "남성생식기관의 양성 신생물",
+            "eng_name": "Benign neoplasm of male genital organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "214ce158-dbd9-4665-af42-6ff34531ee74",
+            "code": "D30",
+            "name": "D30",
+            "kor_name": "비뇨기관의 양성 신생물",
+            "eng_name": "Benign neoplasm of urinary organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ac721159-03a8-4c97-8ad4-90d9eab8bb8c",
+            "code": "D31",
+            "name": "D31",
+            "kor_name": "눈 및 부속기의 양성 신생물",
+            "eng_name": "Benign neoplasm of eye and adnexa",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8f8d5527-67be-41fb-945d-aa7e9a3486f5",
+            "code": "D00",
+            "name": "D00",
+            "kor_name": "구강, 식도 및 위의 제자리암종",
+            "eng_name": "Carcinoma in situ of oral cavity, oesophagus and stomach",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9ec2fab3-73e9-45b1-b773-986f021a5104",
+            "code": "D03",
+            "name": "D03",
+            "kor_name": "제자리흑색종",
+            "eng_name": "Melanoma in situ",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ee83238d-7351-472c-9244-f96b6d84454f",
+            "code": "E00-E07",
+            "name": "E00-E07",
+            "kor_name": "갑상선의 장애(E00-E07)",
+            "eng_name": "Disorders of thyroid gland(E00-E07)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ae676468-e548-4d46-8239-b0454d205e3c",
+            "code": "D34",
+            "name": "D34",
+            "kor_name": "갑상선의 양성 신생물",
+            "eng_name": "Benign neoplasm of thyroid gland",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d8e04644-670f-49f9-9bd1-a9f0071be678",
+            "code": "D35",
+            "name": "D35",
+            "kor_name": "기타 및 상세불명의 내분비선의 양성 신생물",
+            "eng_name": "Benign neoplasm of other and unspecified endocrine glands",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c937734b-9b63-432b-b677-0a05bf743444",
+            "code": "D36",
+            "name": "D36",
+            "kor_name": "기타 및 상세불명 부위의 양성 신생물",
+            "eng_name": "Benign neoplasm of other and unspecified sites",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "25377c0b-9071-44c9-ad0c-a2a5b6ed36c2",
+            "code": "D37",
+            "name": "D37",
+            "kor_name": "구강 및 소화기관의 행동양식 불명 또는 미상의 신생물",
+            "eng_name": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2361e7d9-a580-4399-801c-3a30ec44b5af",
+            "code": "D38",
+            "name": "D38",
+            "kor_name": "중이, 호흡기관, 흉곽내기관의 행동양식 불명 또는 미상의 신생물",
+            "eng_name": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b5eeb3df-d03d-454e-8d74-17dfecd4a6e2",
+            "code": "D41",
+            "name": "D41",
+            "kor_name": "비뇨기관의 행동양식 불명 또는 미상의 신생물",
+            "eng_name": "Neoplasm of uncertain or unknown behaviour of urinary organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "653312bd-5087-4535-a365-abdbfd4eca26",
+            "code": "D39",
+            "name": "D39",
+            "kor_name": "여성생식기관의 행동양식 불명 또는 미상의 신생물",
+            "eng_name": "Neoplasm of uncertain or unknown behaviour of female genital organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7ecd7da5-7c69-42a9-99d1-c0dcb44a8dd1",
+            "code": "D40",
+            "name": "D40",
+            "kor_name": "남성생식기관의 행동양식 불명 또는 미상의 신생물",
+            "eng_name": "Neoplasm of uncertain or unknown behaviour of male genital organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "54c6cbaa-a862-4e0f-acef-7aa32f802343",
+            "code": "D46",
+            "name": "D46",
+            "kor_name": "골수형성이상증후군",
+            "eng_name": "Myelodysplastic syndromes",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "32186386-1ec9-4616-a404-57587137b8d0",
+            "code": "D44",
+            "name": "D44",
+            "kor_name": "내분비선의 행동양식 불명 또는 미상의 신생물",
+            "eng_name": "Neoplasm of uncertain or unknown behaviour of endocrine glands",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "aaf562f2-9702-47db-95e0-830f1c42f0bc",
+            "code": "D45",
+            "name": "D45",
+            "kor_name": "진성 적혈구증가증",
+            "eng_name": "Polycythaemia vera",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "717e04c7-2dc3-47a1-b1d3-3134442b09a6",
+            "code": "D47",
+            "name": "D47",
+            "kor_name": "림프, 조혈 및 관련 조직의 행동양식 불명 및 미상의 기타 신생물",
+            "eng_name": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8937d0de-0625-4ed3-8f1b-55db576bf692",
+            "code": "D48",
+            "name": "D48",
+            "kor_name": "기타 및 상세불명 부위의 행동양식 불명 또는 미상의 신생물",
+            "eng_name": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "92a55075-a652-4bfb-8150-0cd968b09008",
+            "code": "D50-D53",
+            "name": "D50-D53",
+            "kor_name": "영양성 빈혈(D50-D53)",
+            "eng_name": "Nutritional anaemias(D50-D53)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ea3d372c-c64a-4a6f-a1de-94f734cde8c1",
+            "code": "D55-D59",
+            "name": "D55-D59",
+            "kor_name": "용혈성 빈혈(D55-D59)",
+            "eng_name": "Haemolytic anaemias(D55-D59)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8092f736-92ea-454e-a6f5-e465c0bbf243",
+            "code": "D60-D64",
+            "name": "D60-D64",
+            "kor_name": "무형성 및 기타 빈혈(D60-D64)",
+            "eng_name": "Aplastic and other anaemias(D60-D64)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7c18b335-c0e2-4588-b112-febab7262c0a",
+            "code": "D65-D69",
+            "name": "D65-D69",
+            "kor_name": "응고결함, 자반 및 기타 출혈성 병태(D65-D69)",
+            "eng_name": "Coagulation defects, purpura and other haemorrhagic conditions(D65-D69)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3a8c690a-e0a7-46bb-9120-188b799cd5ec",
+            "code": "D70-D77",
+            "name": "D70-D77",
+            "kor_name": "혈액 및 조혈기관의 기타 질환(D70-D77)",
+            "eng_name": "Other diseases of blood and blood-forming organs(D70-D77)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "92f331ae-e6cc-4707-955d-c69ac7571fe2",
+            "code": "E10-E14",
+            "name": "E10-E14",
+            "kor_name": "당뇨병(E10-E14)",
+            "eng_name": "Diabetes mellitus(E10-E14)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7b93f703-ed94-4059-8e84-5d72339c9f2e",
+            "code": "D80-D89",
+            "name": "D80-D89",
+            "kor_name": "면역메커니즘을 침범한 특정 장애(D80-D89)",
+            "eng_name": "Certain disorders involving the immune mechanism(D80-D89)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8ea86cb7-3a4d-40aa-9010-c5281c7452ee",
+            "code": "E65-E68",
+            "name": "E65-E68",
+            "kor_name": "비만 및 기타 과영양(E65-E68)",
+            "eng_name": "Obesity and other hyperalimentation(E65-E68)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5c5e40d2-c729-4eab-9bd9-9202d8f73a7c",
+            "code": "P10-P15",
+            "name": "P10-P15",
+            "kor_name": "출산외상(P10-P15)",
+            "eng_name": "Birth trauma(P10-P15)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ac180fbb-fc79-4e09-b7db-1e24b6088503",
+            "code": "E15",
+            "name": "E15",
+            "kor_name": "비당뇨병성 저혈당성 혼수",
+            "eng_name": "Nondiabetic hypoglycaemic coma",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d3c76d50-b7a1-45f8-a548-a76cf32f736f",
+            "code": "E16",
+            "name": "E16",
+            "kor_name": "췌장내분비의 기타 장애",
+            "eng_name": "Other disorders of pancreatic internal secretion",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8b39fe0e-61d4-4873-9b14-d4b69649b74e",
+            "code": "E28",
+            "name": "E28",
+            "kor_name": "난소의 기능이상",
+            "eng_name": "Ovarian dysfunction",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2eda944e-7222-4be4-a321-85e7b05bf594",
+            "code": "E29",
+            "name": "E29",
+            "kor_name": "고환의 기능이상",
+            "eng_name": "Testicular dysfunction",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c9d42403-b634-43d0-83ac-448f5875c9e5",
+            "code": "E30",
+            "name": "E30",
+            "kor_name": "달리 분류되지 않은 사춘기의 장애",
+            "eng_name": "Disorders of puberty, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e167e53c-f385-44c1-979d-7d0312622433",
+            "code": "E31",
+            "name": "E31",
+            "kor_name": "다선성 기능이상",
+            "eng_name": "Polyglandular dysfunction",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "92403194-dbba-4dd7-b5be-62a40abf1992",
+            "code": "E32",
+            "name": "E32",
+            "kor_name": "흉선의 질환",
+            "eng_name": "Diseases of thymus",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b2562c3f-4ea6-49b5-9548-502fb599e05f",
+            "code": "E70-E90",
+            "name": "E70-E90",
+            "kor_name": "대사장애(E70-E90)",
+            "eng_name": "Metabolic disorders(E70-E90)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ec28ae92-541a-4681-8cc1-75ee1bac92a0",
+            "code": "F00-F99",
+            "name": "F00-F99",
+            "kor_name": "정신 및 행동 장애(F00-F99)",
+            "eng_name": "Mental and behavioural disorders(F00-F99)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "09895f61-46ec-492a-8830-1ae0202985f5",
+            "code": "G00-G09",
+            "name": "G00-G09",
+            "kor_name": "중추신경계통의 염증성 질환(G00-G09)",
+            "eng_name": "Inflammatory diseases of the central nervous system(G00-G09)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "175b161a-4c58-477c-b1a4-b465845daea5",
+            "code": "G10-G14",
+            "name": "G10-G14",
+            "kor_name": "일차적으로 중추신경계통에 영향을 주는 계통성 위축(G10-G14)",
+            "eng_name": "Systemic atrophies primarily affecting the central nervous system(G10-G14)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e6365509-542b-40b8-b5b4-c31345ef6137",
+            "code": "G20-G26",
+            "name": "G20-G26",
+            "kor_name": "추체외로 및 운동 장애(G20-G26)",
+            "eng_name": "Extrapyramidal and movement disorders(G20-G26)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "706cde1d-f0da-45f1-b3e7-b27ef786dfed",
+            "code": "G30-G32",
+            "name": "G30-G32",
+            "kor_name": "신경계통의 기타 퇴행성 질환(G30-G32)",
+            "eng_name": "Other degenerative diseases of the nervous system(G30-G32)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a3fff168-c038-45ba-9dc4-2397646c7196",
+            "code": "G35-G37",
+            "name": "G35-G37",
+            "kor_name": "중추신경계통의 탈수초질환(G35-G37)",
+            "eng_name": "Demyelinating diseases of the central nervous system(G35-G37)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "de744fc5-613a-4dd7-b0fd-4bb35a893246",
+            "code": "G47",
+            "name": "G47",
+            "kor_name": "수면장애",
+            "eng_name": "Sleep disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "49293d16-d6f7-4861-9f4e-cc757546e921",
+            "code": "G50",
+            "name": "G50",
+            "kor_name": "삼차신경의 장애",
+            "eng_name": "Disorders of trigeminal nerve",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c97bf14b-91bd-4cfe-a8e0-513f4f511c47",
+            "code": "G51",
+            "name": "G51",
+            "kor_name": "안면신경장애",
+            "eng_name": "Facial nerve disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b1ee612a-8f57-4a4e-b11a-d941560f4345",
+            "code": "G54",
+            "name": "G54",
+            "kor_name": "신경근 및 신경총 장애",
+            "eng_name": "Nerve root and plexus disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "625a32b4-eb9d-46fb-8986-5b0238ba1618",
+            "code": "G55",
+            "name": "G55",
+            "kor_name": "달리 분류된 질환에서의 신경근 및 신경총 압박",
+            "eng_name": "Nerve root and plexus compressions in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "59cb454c-e496-4f10-96e9-85892d9c4d53",
+            "code": "G56",
+            "name": "G56",
+            "kor_name": "팔의 단일신경병증",
+            "eng_name": "Mononeuropathies of upper limb",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d4e403d9-4eb0-43ff-a913-4128810613e9",
+            "code": "G60-G64",
+            "name": "G60-G64",
+            "kor_name": "다발신경병증 및 말초신경계통의 기타 장애(G60-G64)",
+            "eng_name": "Polyneuropathies and other disorders of the peripheral nervous system(G60-G64)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "883189d7-b665-4c7d-9910-bfe9893e9218",
+            "code": "G70-G73",
+            "name": "G70-G73",
+            "kor_name": "신경근접합부 및 근육의 질환(G70-G73)",
+            "eng_name": "Diseases of myoneural junction and muscle(G70-G73)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "eec5edbe-f951-4d69-85d1-bdc10f1eebf3",
+            "code": "G80",
+            "name": "G80",
+            "kor_name": "뇌성마비",
+            "eng_name": "Cerebral palsy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ac5c5b95-06e0-4aca-8719-65892eeadbfa",
+            "code": "G91",
+            "name": "G91",
+            "kor_name": "수두증",
+            "eng_name": "Hydrocephalus",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5f8dd399-3e04-462a-8be5-649f9a167350",
+            "code": "G90",
+            "name": "G90",
+            "kor_name": "자율신경계통의 장애",
+            "eng_name": "Disorders of autonomic nervous system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b0346d5b-f2dd-469b-9865-81475bc89408",
+            "code": "G95",
+            "name": "G95",
+            "kor_name": "척수의 기타 질환",
+            "eng_name": "Other diseases of spinal cord",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2c0c21cf-d547-435b-a589-f3b28a0afafb",
+            "code": "G96",
+            "name": "G96",
+            "kor_name": "중추신경계통의 기타 장애",
+            "eng_name": "Other disorders of central nervous system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "de289c3d-2702-408b-9d10-ee2d1459f3ea",
+            "code": "G97",
+            "name": "G97",
+            "kor_name": "달리 분류되지 않은 신경계통의 처치후 장애",
+            "eng_name": "Postprocedural disorders of nervous system, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1e48110a-46d1-446a-ad82-2a7cb31e2d73",
+            "code": "H00-H06",
+            "name": "H00-H06",
+            "kor_name": "눈꺼풀, 눈물계통 및 안와의 장애(H00-H06)",
+            "eng_name": "Disorders of eyelid, lacrimal system and orbit(H00-H06)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "af6d89a2-ec48-4831-a16f-c04633ed1194",
+            "code": "H25-H28",
+            "name": "H25-H28",
+            "kor_name": "수정체의 장애(H25-H28)",
+            "eng_name": "Disorders of lens(H25-H28)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7132a5ae-604f-4fa4-955c-61e22113f4a7",
+            "code": "H10-H13",
+            "name": "H10-H13",
+            "kor_name": "결막의 장애(H10-H13)",
+            "eng_name": "Disorders of conjunctiva(H10-H13)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "47e856e3-f9d1-4e60-a838-0dd8f952da85",
+            "code": "H30-H36",
+            "name": "H30-H36",
+            "kor_name": "맥락막 및 망막의 장애(H30-H36)",
+            "eng_name": "Disorders of choroid and retina(H30-H36)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "18cbb2e1-5b23-4dbb-89ef-436ffc5ecf3b",
+            "code": "H15-H22",
+            "name": "H15-H22",
+            "kor_name": "공막, 각막, 홍채 및 섬모체의 장애(H15-H22)",
+            "eng_name": "Disorders of sclera, cornea, iris and ciliary body(H15-H22)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0d9df661-7582-49ce-b8d9-b1ca7877ceb7",
+            "code": "H40-H42",
+            "name": "H40-H42",
+            "kor_name": "녹내장(H40-H42)",
+            "eng_name": "Glaucoma(H40-H42)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f040e1cc-087c-4a68-8fd1-ee72c368efb0",
+            "code": "H43-H45",
+            "name": "H43-H45",
+            "kor_name": "유리체 및 안구의 장애(H43-H45)",
+            "eng_name": "Disorders of vitreous body and globe(H43-H45)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3b962b38-7ec4-4313-a8b3-1e8a9c73157d",
+            "code": "H46-H48",
+            "name": "H46-H48",
+            "kor_name": "시신경 및 시각경로의 장애(H46-H48)",
+            "eng_name": "Disorders of optic nerve and visual pathways(H46-H48)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f8fc2636-980a-4909-901f-84df20687ab2",
+            "code": "H49-H52",
+            "name": "H49-H52",
+            "kor_name": "안근, 양안운동, 조절 및 굴절의 장애(H49-H52)",
+            "eng_name": "Disorders of ocular muscles, binocular movement, accommodation and refraction(H49-H52)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "bbd64305-30c0-47a5-b110-706d16d0023e",
+            "code": "H53-H54",
+            "name": "H53-H54",
+            "kor_name": "시각장애 및 실명(H53-H54)",
+            "eng_name": "Visual disturbances and blindness(H53-H54)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "62439b39-3058-43bc-a0f3-3b77a6ffe815",
+            "code": "H55-H59",
+            "name": "H55-H59",
+            "kor_name": "눈 및 눈부속기의 기타 장애(H55-H59)",
+            "eng_name": "Other disorders of eye and adnexa(H55-H59)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "be0de713-d782-4184-a36a-d80a856a7d14",
+            "code": "H60-H62",
+            "name": "H60-H62",
+            "kor_name": "외이의 질환(H60-H62)",
+            "eng_name": "Diseases of external ear(H60-H62)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0f83c62e-5ebf-4ce8-b78e-18f7ea2b4c27",
+            "code": "H65-H75",
+            "name": "H65-H75",
+            "kor_name": "중이 및 유돌의 질환(H65-H75)",
+            "eng_name": "Diseases of middle ear and mastoid(H65-H75)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "655a3f7a-0cbb-4772-9331-7f2a29acb975",
+            "code": "H80-H83",
+            "name": "H80-H83",
+            "kor_name": "내이의 질환(H80-H83)",
+            "eng_name": "Diseases of inner ear(H80-H83)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2acecd06-e2e2-4448-a889-6c6415e9be35",
+            "code": "H92",
+            "name": "H92",
+            "kor_name": "귀통증 및 귀의 삼출액",
+            "eng_name": "Otalgia and effusion of ear",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "90f66bad-f6ed-4996-a38f-8406259dcab0",
+            "code": "I20-I25",
+            "name": "I20-I25",
+            "kor_name": "허혈심장질환(I20-I25)",
+            "eng_name": "Ischaemic heart diseases(I20-I25)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0eb43700-fcc1-49c4-b613-1b479608f5a1",
+            "code": "I00-I02",
+            "name": "I00-I02",
+            "kor_name": "급성 류마티스열(I00-I02)",
+            "eng_name": "Acute rheumatic fever(I00-I02)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a313e358-0a8c-4705-bb8d-9e047125f3c4",
+            "code": "I05-I09",
+            "name": "I05-I09",
+            "kor_name": "만성 류마티스심장질환(I05-I09)",
+            "eng_name": "Chronic rheumatic heart diseases(I05-I09)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b82f2d99-75d4-4e4f-91e8-97002e0e4af1",
+            "code": "I10-I15",
+            "name": "I10-I15",
+            "kor_name": "고혈압성 질환(I10-I15)",
+            "eng_name": "Hypertensive diseases(I10-I15)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4c8072a4-f033-4a2e-b526-ebbced7ae5f8",
+            "code": "I26-I28",
+            "name": "I26-I28",
+            "kor_name": "폐성 심장병 및 폐순환의 질환(I26-I28)",
+            "eng_name": "Pulmonary heart disease and diseases of pulmonary circulation(I26-I28)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f649931e-8b0f-4d88-b16b-b0bbe0f2ce67",
+            "code": "I50",
+            "name": "I50",
+            "kor_name": "심부전",
+            "eng_name": "Heart failure",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a8dae9af-bf39-4570-bcf7-9d6aedbf4eff",
+            "code": "G57",
+            "name": "G57",
+            "kor_name": "다리의 단일신경병증",
+            "eng_name": "Mononeuropathies of lower limb",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c82b59ea-d894-4c82-be81-34596b20555a",
+            "code": "I95",
+            "name": "I95",
+            "kor_name": "저혈압",
+            "eng_name": "Hypotension",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "af749a91-50fd-4d22-ae5d-e4bd0312214b",
+            "code": "I70",
+            "name": "I70",
+            "kor_name": "죽상경화증",
+            "eng_name": "Atherosclerosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "07999175-f6e8-413b-966b-a891a42f8739",
+            "code": "I73",
+            "name": "I73",
+            "kor_name": "기타 말초혈관질환",
+            "eng_name": "Other peripheral vascular diseases",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b0288e20-e376-4082-a810-900a11814cde",
+            "code": "I74",
+            "name": "I74",
+            "kor_name": "동맥색전증 및 혈전증",
+            "eng_name": "Arterial embolism and thrombosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "db43210a-07bb-4617-a4ed-1f17664655f6",
+            "code": "I74.0",
+            "name": "I74.0",
+            "kor_name": "복부대동맥의 색전증 및 혈전증",
+            "eng_name": "Embolism and thrombosis of abdominal aorta",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1e3b91ac-8aa6-48c5-8763-38ee08e557d1",
+            "code": "I74.1",
+            "name": "I74.1",
+            "kor_name": "대동맥의 기타 및 상세불명 부위의 색전증 및 혈전증",
+            "eng_name": "Embolism and thrombosis of other and unspecified parts of aorta",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3d7bee12-325b-490d-81c9-796681297926",
+            "code": "I74.2",
+            "name": "I74.2",
+            "kor_name": "상지동맥의 색전증 및 혈전증",
+            "eng_name": "Embolism and thrombosis of arteries of upper extremities",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0dd7a636-fb34-45e5-89a8-15be5c6baea8",
+            "code": "I74.3",
+            "name": "I74.3",
+            "kor_name": "하지동맥의 색전증 및 혈전증",
+            "eng_name": "Embolism and thrombosis of arteries of lower extremities",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d4a50e29-383f-48c9-b460-0a255a6c8e8e",
+            "code": "I74.4",
+            "name": "I74.4",
+            "kor_name": "상세불명의 사지동맥의 색전증 및 혈전증",
+            "eng_name": "Embolism and thrombosis of arteries of extremities, unspecified",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b93f37ce-6fc4-4675-b84d-5721608f43fe",
+            "code": "I74.5",
+            "name": "I74.5",
+            "kor_name": "장골동맥의 색전증 및 혈전증",
+            "eng_name": "Embolism and thrombosis of iliac artery",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "47cfd740-d232-4551-afa2-6e687273fafa",
+            "code": "I74.8",
+            "name": "I74.8",
+            "kor_name": "기타 동맥의 색전증 및 혈전증",
+            "eng_name": "Embolism and thrombosis of other arteries",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0a142b35-0e12-4a64-b364-ca053e99031f",
+            "code": "I74.9",
+            "name": "I74.9",
+            "kor_name": "상세불명 동맥의 색전증 및 혈전증",
+            "eng_name": "Embolism and thrombosis of unspecified artery",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a77a529f-5e8a-43cf-9b8f-14ccb84f0647",
+            "code": "I81",
+            "name": "I81",
+            "kor_name": "문맥혈전증",
+            "eng_name": "Portal vein thrombosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e31b0678-cb96-4019-a4ca-fc95bcbfcb21",
+            "code": "I82",
+            "name": "I82",
+            "kor_name": "기타 정맥의 색전증 및 혈전증",
+            "eng_name": "Other venous embolism and thrombosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "bcf16a80-a5e6-4760-bb45-149c25b3915b",
+            "code": "I83",
+            "name": "I83",
+            "kor_name": "하지의 정맥류",
+            "eng_name": "Varicose veins of lower extremities",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "fbec51e6-7272-4916-84c6-dbd3b50b4ed6",
+            "code": "I85",
+            "name": "I85",
+            "kor_name": "식도정맥류",
+            "eng_name": "Oesophageal varices",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "38e352a0-1826-4700-9d1a-141fea5274ea",
+            "code": "I86",
+            "name": "I86",
+            "kor_name": "기타 부위의 정맥류",
+            "eng_name": "Varicose veins of other sites",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1add3761-bf6e-4f87-8596-0c439f8700d9",
+            "code": "I86.0",
+            "name": "I86.0",
+            "kor_name": "설하정맥류",
+            "eng_name": "Sublingual varices",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "36c77149-240f-4adc-96a8-7cb111b4eef7",
+            "code": "I86.1",
+            "name": "I86.1",
+            "kor_name": "음낭정맥류",
+            "eng_name": "Scrotal varices",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2a4e44a6-af76-4245-945f-a3f32100b427",
+            "code": "I86.2",
+            "name": "I86.2",
+            "kor_name": "골반정맥류",
+            "eng_name": "Pelvic varices",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "05213e26-d3a7-4c6e-a160-ecb1f4189058",
+            "code": "I86.3",
+            "name": "I86.3",
+            "kor_name": "외음정맥류",
+            "eng_name": "Vulval varices",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2d75c53d-382d-4752-b47d-a7aaae1ed7cd",
+            "code": "I86.4",
+            "name": "I86.4",
+            "kor_name": "위정맥류",
+            "eng_name": "Gastric varices",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5cc92634-87dd-4101-b164-a7b8de318497",
+            "code": "I86.8",
+            "name": "I86.8",
+            "kor_name": "기타 명시된 부위의 정맥류",
+            "eng_name": "Varicose veins of other specified sites",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "43153412-56bf-4abd-be48-47dc05f91e96",
+            "code": "I87",
+            "name": "I87",
+            "kor_name": "정맥의 기타 장애",
+            "eng_name": "Other disorders of veins",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "49454f8e-f499-4702-80d6-ba3878b9dee9",
+            "code": "I88",
+            "name": "I88",
+            "kor_name": "비특이성 림프절염",
+            "eng_name": "Nonspecific lymphadenitis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c104f06c-4f7f-4c5a-8f17-02b6aa72f382",
+            "code": "I89",
+            "name": "I89",
+            "kor_name": "림프관 및 림프절의 기타 비감염성 장애",
+            "eng_name": "Other noninfective disorders of lymphatic vessels and lymph nodes",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9d1444f7-3ad5-4c70-8d1a-2f58332abe09",
+            "code": "I97",
+            "name": "I97",
+            "kor_name": "달리 분류되지 않은 순환계통의 처치후 장애",
+            "eng_name": "Postprocedural disorders of circulatory system, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c724d12b-a208-404e-af48-106d61ffacc0",
+            "code": "I98",
+            "name": "I98",
+            "kor_name": "달리 분류된 질환에서의 순환계통의 기타 장애",
+            "eng_name": "Other disorders of circulatory system in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ebbef7d5-d099-4653-bd93-3fd1b8cd59cf",
+            "code": "I98.0",
+            "name": "I98.0",
+            "kor_name": "심혈관매독",
+            "eng_name": "Cardiovascular syphilis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e0a4b5c3-8216-4d64-9252-eb3bd5f92975",
+            "code": "I98.1",
+            "name": "I98.1",
+            "kor_name": "달리 분류된 기타 감염성 및 기생충성 질환에서의 심혈관장애",
+            "eng_name": "Cardiovascular disorders in other infectious and parasitic diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "dbc3395f-63f2-4ee4-bafc-da0db9356fc0",
+            "code": "I98.2",
+            "name": "I98.2",
+            "kor_name": "달리 분류된 질환에서의 출혈을 동반하지 않은 식도정맥류",
+            "eng_name": "Oesophageal varices without bleeding in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "701c2c6e-5186-43f8-a526-5c3293ce41f1",
+            "code": "I98.3",
+            "name": "I98.3",
+            "kor_name": "달리 분류된 질환에서의 출혈을 동반한 식도정맥류",
+            "eng_name": "Oesophageal varices with bleeding in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c541dc0a-e3ba-4cbe-9aea-3c2095944bf2",
+            "code": "I98.8",
+            "name": "I98.8",
+            "kor_name": "달리 분류된 질환에서의 순환계통의 기타 명시된 장애",
+            "eng_name": "Other specified disorders of circulatory system in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a2d89e79-2bef-4aac-aebd-f80300ab02b2",
+            "code": "I99",
+            "name": "I99",
+            "kor_name": "순환계통의 기타 및 상세불명의 장애",
+            "eng_name": "Other and unspecified disorders of circulatory system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "00ffeea3-1a25-474f-a832-ed7936fe9563",
+            "code": "J40-J47",
+            "name": "J40-J47",
+            "kor_name": "만성 하부호흡기질환(J40-J47)",
+            "eng_name": "Chronic lower respiratory diseases(J40-J47)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "96cdcda0-6c43-452c-a4c4-6d8881101d02",
+            "code": "J60-J70",
+            "name": "J60-J70",
+            "kor_name": "외부요인에 의한 폐질환(J60-J70)",
+            "eng_name": "Lung diseases due to external agents(J60-J70)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "45effe47-eb81-457d-a8a6-6d3006dcbbf4",
+            "code": "J80-J84",
+            "name": "J80-J84",
+            "kor_name": "주로 간질에 영향을 주는 기타 호흡기질환(J80-J84)",
+            "eng_name": "Other respiratory diseases principally affecting the interstitium(J80-J84)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3ceed561-f51d-4437-a488-18852c5cefe2",
+            "code": "J90-J94",
+            "name": "J90-J94",
+            "kor_name": "흉막의 기타 질환(J90-J94)",
+            "eng_name": "Other diseases of pleura(J90-J94)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7fed0501-2a3b-477b-87dc-abed38efd80e",
+            "code": "J85-J86",
+            "name": "J85-J86",
+            "kor_name": "하기도의 화농성 및 괴사성 병태(J85-J86)",
+            "eng_name": "Suppurative and necrotic conditions of lower respiratory tract(J85-J86)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "96745167-f18e-46ca-b236-929a78d4abdd",
+            "code": "J95",
+            "name": "J95",
+            "kor_name": "달리 분류되지 않은 처치후 호흡장애",
+            "eng_name": "Postprocedural respiratory disorders, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "48094123-db0c-4181-b6d5-d113206dbe23",
+            "code": "J96",
+            "name": "J96",
+            "kor_name": "달리 분류되지 않은 호흡부전",
+            "eng_name": "Respiratory failure, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5c4ac4b0-7765-437a-9942-99aabe016e6d",
+            "code": "J98",
+            "name": "J98",
+            "kor_name": "기타 호흡장애",
+            "eng_name": "Other respiratory disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "52f9506c-ffe3-4740-870a-24af74bbdae7",
+            "code": "J99",
+            "name": "J99",
+            "kor_name": "달리 분류된 질환에서의 호흡장애",
+            "eng_name": "Respiratory disorders in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d6a47fc4-29e9-4247-aced-bebefb5b2d58",
+            "code": "K35-K38",
+            "name": "K35-K38",
+            "kor_name": "충수의 질환(K35-K38)",
+            "eng_name": "Diseases of appendix(K35-K38)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "73cdcea3-3532-468e-8fc0-5de6b39dd3f3",
+            "code": "K10",
+            "name": "K10",
+            "kor_name": "턱의 기타 질환",
+            "eng_name": "Other diseases of jaws",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0059eb2e-fefd-4405-b8fb-11d8df48bcda",
+            "code": "K11",
+            "name": "K11",
+            "kor_name": "침샘의 질환",
+            "eng_name": "Diseases of salivary glands",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1cf84399-5dd2-4d01-95b4-5f836623a814",
+            "code": "K12",
+            "name": "K12",
+            "kor_name": "구내염 및 관련 병변",
+            "eng_name": "Stomatitis and related lesions",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3a9852d7-099d-4b9e-9a20-2d3cfa108bff",
+            "code": "K13",
+            "name": "K13",
+            "kor_name": "입술 및 구강점막의 기타 질환",
+            "eng_name": "Other diseases of lip and oral mucosa",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0b28f6f5-f5c5-4561-94a6-b72d736eb894",
+            "code": "K14",
+            "name": "K14",
+            "kor_name": "혀의 질환",
+            "eng_name": "Diseases of tongue",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "718b6723-b090-4d6c-aea9-0085f47ca181",
+            "code": "K30",
+            "name": "K30",
+            "kor_name": "기능성 소화불량",
+            "eng_name": "Functional dyspepsia",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b0b14bb8-6917-4a7e-9811-f491ea31cd15",
+            "code": "K31",
+            "name": "K31",
+            "kor_name": "위 및 십이지장의 기타 질환",
+            "eng_name": "Other diseases of stomach and duodenum",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a44f7950-91cf-4091-aab9-fb018b5f5d58",
+            "code": "K65",
+            "name": "K65",
+            "kor_name": "복막염",
+            "eng_name": "Peritonitis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a253854d-63b6-44d4-9d7d-5657f4105c14",
+            "code": "K44",
+            "name": "K44",
+            "kor_name": "횡격막탈장",
+            "eng_name": "Diaphragmatic hernia",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7f8fd18f-1205-4539-906e-b8a67b724e86",
+            "code": "K50",
+            "name": "K50",
+            "kor_name": "크론병[국소성 장염]",
+            "eng_name": "Crohn’s disease[regional enteritis]",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "82c975d1-0706-4a84-b6d3-6890e4fe50d0",
+            "code": "K51",
+            "name": "K51",
+            "kor_name": "궤양성 대장염",
+            "eng_name": "Ulcerative colitis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f7198745-7f0b-4473-b788-9b42e551458b",
+            "code": "K52",
+            "name": "K52",
+            "kor_name": "기타 비감염성 위장염 및 결장염",
+            "eng_name": "Other noninfective gastroenteritis and colitis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "13fd8bf9-d0dc-4021-a26a-1780cfd9016c",
+            "code": "K55",
+            "name": "K55",
+            "kor_name": "장의 혈관장애",
+            "eng_name": "Vascular disorders of intestine",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "451ec38a-e32d-4520-b339-926014103384",
+            "code": "K56",
+            "name": "K56",
+            "kor_name": "탈장이 없는 마비성 장폐색증 및 장폐색",
+            "eng_name": "Paralytic ileus and intestinal obstruction without hernia",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f93af6e8-d91c-43f6-9b54-3b1fad9534ea",
+            "code": "K66",
+            "name": "K66",
+            "kor_name": "복막의 기타 장애",
+            "eng_name": "Other disorders of peritoneum",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "621f8017-a607-4d8b-a387-aafc9264c909",
+            "code": "K57",
+            "name": "K57",
+            "kor_name": "장의 게실병",
+            "eng_name": "Diverticular disease of intestine",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "cb48c480-2822-4f71-9870-f44029c90a80",
+            "code": "K58",
+            "name": "K58",
+            "kor_name": "과민대장증후군",
+            "eng_name": "Irritable bowel syndrome",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6cea898a-efd4-4226-8d3e-9929b634b6d9",
+            "code": "K59",
+            "name": "K59",
+            "kor_name": "기타 기능성 장장애",
+            "eng_name": "Other functional intestinal disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9c1cf94f-1d27-4c9b-8ab3-f10bf4dd147a",
+            "code": "K62",
+            "name": "K62",
+            "kor_name": "항문 및 직장의 기타 질환",
+            "eng_name": "Other diseases of anus and rectum",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "95e86e3a-9f08-48a0-8975-74249e772025",
+            "code": "K63",
+            "name": "K63",
+            "kor_name": "장의 기타 질환",
+            "eng_name": "Other diseases of intestine",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ef4e8c0c-c408-4a3c-84a8-c28b4573d16e",
+            "code": "K63.4",
+            "name": "K63.4",
+            "kor_name": "장하수",
+            "eng_name": "Enteroptosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f8c1b55d-f3f3-4dfc-bd66-6fb6fd1c9999",
+            "code": "K63.5",
+            "name": "K63.5",
+            "kor_name": "결장의 폴립",
+            "eng_name": "Polyp of colon",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c67b007c-71ea-41bb-b19d-c91ab7f0e8c9",
+            "code": "K64",
+            "name": "K64",
+            "kor_name": "치핵 및 항문주위정맥혈전증",
+            "eng_name": "Haemorrhoids and perianal venous thrombosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ace90474-2283-4afd-aecc-698759b492f0",
+            "code": "K67",
+            "name": "K67",
+            "kor_name": "달리 분류된 감염성 질환에서의 복막의 장애",
+            "eng_name": "Disorders of peritoneum in infectious diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "907c42ee-6ae8-43e8-8845-5134ced49de7",
+            "code": "K75",
+            "name": "K75",
+            "kor_name": "기타 염증성 간질환",
+            "eng_name": "Other inflammatory liver diseases",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "96210407-df2e-4c6e-9cc0-0ecc44ae1c96",
+            "code": "K87",
+            "name": "K87",
+            "kor_name": "달리 분류된 질환에서의 담낭, 담도 및 췌장의 장애",
+            "eng_name": "Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7d6cfe42-cc75-4e85-a0e8-3f2dec5e4ab5",
+            "code": "K90",
+            "name": "K90",
+            "kor_name": "장흡수장애",
+            "eng_name": "Intestinal malabsorption",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "83b1eb40-6d82-4123-b7e4-ba89dade0a75",
+            "code": "K91",
+            "name": "K91",
+            "kor_name": "달리 분류되지 않은 소화계통의 처치후 장애",
+            "eng_name": "Postprocedural disorders of digestive system, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d94be774-c4c8-42ff-89c2-4523ea50acb4",
+            "code": "K92",
+            "name": "K92",
+            "kor_name": "소화계통의 기타 질환",
+            "eng_name": "Other diseases of digestive system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "12ce08d2-f1f4-4faf-91c8-da337a0c53b8",
+            "code": "K93",
+            "name": "K93",
+            "kor_name": "달리 분류된 질환에서의 기타 소화기관장애",
+            "eng_name": "Disorders of other digestive organs in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d8269f76-7098-4a39-af64-8b143108fde4",
+            "code": "L00-L08",
+            "name": "L00-L08",
+            "kor_name": "피부 및 피하조직의 감염(L00-L08)",
+            "eng_name": "Infections of the skin and subcutaneous tissue(L00-L08)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a2c2c32a-57aa-46f9-a4d8-f28a99abdd1c",
+            "code": "L10-L14",
+            "name": "L10-L14",
+            "kor_name": "수포성 장애(L10-L14)",
+            "eng_name": "Bullous disorders(L10-L14)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "dca4f33e-ad23-4ef1-a090-7cc99e7b93ce",
+            "code": "L40-L45",
+            "name": "L40-L45",
+            "kor_name": "구진비늘장애(L40-L45)",
+            "eng_name": "Papulosquamous disorders(L40-L45)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a646aa1f-6ad2-47b7-ba88-5eadbd1a1b8f",
+            "code": "L50-L54",
+            "name": "L50-L54",
+            "kor_name": "두드러기 및 홍반(L50-L54)",
+            "eng_name": "Urticaria and erythema(L50-L54)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a13c160e-cfac-49df-be04-1ab7afba62fc",
+            "code": "L20-L30",
+            "name": "L20-L30",
+            "kor_name": "피부염 및 습진(L20-L30)",
+            "eng_name": "Dermatitis and eczema(L20-L30)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2eb530b6-9797-45a4-a120-13fd9cfe3d80",
+            "code": "M60-M63",
+            "name": "M60-M63",
+            "kor_name": "근육 장애(M60-M63)",
+            "eng_name": "Disorders of muscles(M60-M63)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "98123ce4-3b6e-4ab1-bf1f-0c6dbac4e833",
+            "code": "L55-L59",
+            "name": "L55-L59",
+            "kor_name": "피부 및 피하조직의 방사선-관련 장애(L55-L59)",
+            "eng_name": "Radiation-related disorders of the skin and subcutaneous tissue(L55-L59)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e8d1dbae-a84e-4b6f-ad7b-6e6549357934",
+            "code": "L67",
+            "name": "L67",
+            "kor_name": "모발색 및 모발줄기 이상",
+            "eng_name": "Hair colour and hair shaft abnormalities",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "63fb2f35-e5d9-4110-8a93-35fc25291f87",
+            "code": "L68",
+            "name": "L68",
+            "kor_name": "털과다증",
+            "eng_name": "Hypertrichosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3b9bda36-6171-40df-9d6c-97e176fcbd37",
+            "code": "L70",
+            "name": "L70",
+            "kor_name": "여드름",
+            "eng_name": "Acne",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1c4e0cde-22c7-4547-a7ee-9809c8bf0141",
+            "code": "L71",
+            "name": "L71",
+            "kor_name": "주사",
+            "eng_name": "Rosacea",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "88f90714-ffa1-4725-ac88-9b86b0d9ffa5",
+            "code": "L80",
+            "name": "L80",
+            "kor_name": "백반증",
+            "eng_name": "Vitiligo",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "aa7c1201-fdea-431b-9a27-f971880bf643",
+            "code": "L81",
+            "name": "L81",
+            "kor_name": "색소침착의 기타 장애",
+            "eng_name": "Other disorders of pigmentation",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f986f68a-7866-47b4-9db8-cb62b9dbff92",
+            "code": "L82",
+            "name": "L82",
+            "kor_name": "지루각화증",
+            "eng_name": "Seborrhoeic keratosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5c650eac-58f1-4775-8edf-6b55a175e21c",
+            "code": "L83",
+            "name": "L83",
+            "kor_name": "흑색극세포증",
+            "eng_name": "Acanthosis nigricans",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a34c90ff-0131-4cc0-8f3d-c589dc491abb",
+            "code": "L84",
+            "name": "L84",
+            "kor_name": "티눈 및 굳은살",
+            "eng_name": "Corns and callosities",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "50319a2e-49f7-4608-b839-76e3d42abbab",
+            "code": "L85",
+            "name": "L85",
+            "kor_name": "기타 표피의 비후",
+            "eng_name": "Other epidermal thickening",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d51611de-9b5d-490a-abb2-0cfcce0ff0ce",
+            "code": "L86",
+            "name": "L86",
+            "kor_name": "달리 분류된 질환에서의 각피증",
+            "eng_name": "Keratoderma in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "708b5421-414e-4639-bd2c-66c78f6acfb7",
+            "code": "L87",
+            "name": "L87",
+            "kor_name": "표피경유제거장애",
+            "eng_name": "Transepidermal elimination disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2872b46e-96ed-4343-8c98-73ff3d13994e",
+            "code": "L88",
+            "name": "L88",
+            "kor_name": "괴저성 농피증",
+            "eng_name": "Pyoderma gangrenosum",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "bf94817e-25a2-4f3a-b861-5246bb8247dd",
+            "code": "L89",
+            "name": "L89",
+            "kor_name": "욕창궤양 및 압박부위",
+            "eng_name": "Decubitus ulcer and pressure area",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1079b837-65db-435b-9f37-ced1aa8e0f31",
+            "code": "L90",
+            "name": "L90",
+            "kor_name": "피부의 위축장애",
+            "eng_name": "Atrophic disorders of skin",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6aa7d7c3-98fe-45e0-9aad-5630ae594f61",
+            "code": "L91",
+            "name": "L91",
+            "kor_name": "피부의 비대성 장애",
+            "eng_name": "Hypertrophic disorders of skin",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a7de5ea8-14df-4073-a185-311a4ae125c2",
+            "code": "L92",
+            "name": "L92",
+            "kor_name": "피부 및 피하조직의 육아종성 장애",
+            "eng_name": "Granulomatous disorders of skin and subcutaneous tissue",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ad8943dd-a38a-4323-ae3a-49f5c7792d94",
+            "code": "L93",
+            "name": "L93",
+            "kor_name": "홍반루푸스",
+            "eng_name": "Lupus erythematosus",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6923f47f-2737-40fb-9389-310b3f52831a",
+            "code": "L94",
+            "name": "L94",
+            "kor_name": "기타 국소적 결합조직장애",
+            "eng_name": "Other localized connective tissue disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "14fa83ac-137e-4569-ae4a-9b5b641c9011",
+            "code": "L95",
+            "name": "L95",
+            "kor_name": "달리 분류되지 않은 피부에 한정된 혈관염",
+            "eng_name": "Vasculitis limited to skin, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a7985245-4edb-44d4-9d85-02cee6cc78f9",
+            "code": "L97",
+            "name": "L97",
+            "kor_name": "달리 분류되지 않은 다리의 궤양",
+            "eng_name": "Ulcer of lower limb, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a326263f-3f56-4f79-a04d-0e49ab9d6ef9",
+            "code": "L98",
+            "name": "L98",
+            "kor_name": "달리 분류되지 않은 피부 및 피하조직의 기타 장애",
+            "eng_name": "Other disorders of skin and subcutaneous tissue, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7a08b1b3-dac5-41f3-8e3e-8bea519733ad",
+            "code": "L99",
+            "name": "L99",
+            "kor_name": "달리 분류된 질환에서의 피부 및 피하조직의 기타 장애",
+            "eng_name": "Other disorders of skin and subcutaneous tissue in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0c608c44-4cf8-4e63-9c82-c2914482e676",
+            "code": "M15-M19",
+            "name": "M15-M19",
+            "kor_name": "관절증(M15-M19)",
+            "eng_name": "Arthrosis(M15-M19)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "23e5d6bf-d24b-4413-89ff-87a8f5c1b497",
+            "code": "M00-M03",
+            "name": "M00-M03",
+            "kor_name": "감염성 관절병증(M00-M03)",
+            "eng_name": "Infectious arthropathies(M00-M03)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b88b613f-9ed5-49e7-ac19-ea2dfd1d183d",
+            "code": "N20-N23",
+            "name": "N20-N23",
+            "kor_name": "요로결석증(N20-N23)",
+            "eng_name": "Urolithiasis(N20-N23)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4e79694c-7fd4-4383-988c-28e2f4145819",
+            "code": "N70-N77",
+            "name": "N70-N77",
+            "kor_name": "여성골반내기관의 염증성 질환(N70-N77)",
+            "eng_name": "Inflammatory diseases of female pelvic organs(N70-N77)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "01a8bba2-f499-4e6d-80f0-da616c15d158",
+            "code": "M10",
+            "name": "M10",
+            "kor_name": "통풍",
+            "eng_name": "Gout",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "23189f54-3512-4778-983f-75c4800d2a58",
+            "code": "M07",
+            "name": "M07",
+            "kor_name": "건선성 및 장병성 관절병증",
+            "eng_name": "Psoriatic and enteropathic arthropathies",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "31b6052d-756e-4f97-86ff-52409689f669",
+            "code": "M86-M90",
+            "name": "M86-M90",
+            "kor_name": "기타 골병증(M86-M90)",
+            "eng_name": "Other osteopathies(M86-M90)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c117478d-4084-420b-b1e3-70ebdd062155",
+            "code": "M11",
+            "name": "M11",
+            "kor_name": "기타 결정 관절병증",
+            "eng_name": "Other crystal arthropathies",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "82f24356-a3da-4533-a8fa-7c761dec802d",
+            "code": "M12",
+            "name": "M12",
+            "kor_name": "기타 특정 관절병증",
+            "eng_name": "Other specific arthropathies",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3a317911-0cae-4f9e-afeb-a6f03850196f",
+            "code": "M45-M49",
+            "name": "M45-M49",
+            "kor_name": "척추병증(M45-M49)",
+            "eng_name": "Spondylopathies(M45-M49)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "aecd96db-a90c-4ceb-bb04-3f26dbbefe11",
+            "code": "M30",
+            "name": "M30",
+            "kor_name": "결절성 다발동맥염 및 관련 병태",
+            "eng_name": "Polyarteritis nodosa and related conditions",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "995f3ff5-9794-45fd-badc-e2dc92b413a0",
+            "code": "M31",
+            "name": "M31",
+            "kor_name": "기타 괴사성 혈관병증",
+            "eng_name": "Other necrotizing vasculopathies",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "12f6e6b7-f17a-4951-b875-83deec82a29e",
+            "code": "M32",
+            "name": "M32",
+            "kor_name": "전신홍반루푸스",
+            "eng_name": "Systemic lupus erythematosus",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6fbda5ac-9664-4424-91c8-7bc700039e7e",
+            "code": "M33",
+            "name": "M33",
+            "kor_name": "피부다발근염",
+            "eng_name": "Dermatopolymyositis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7e3ff5ca-359e-4618-a242-e11b8f95ebdc",
+            "code": "M34",
+            "name": "M34",
+            "kor_name": "전신경화증",
+            "eng_name": "Systemic sclerosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "96dbfea8-8e85-4f12-afcb-f463be98493a",
+            "code": "M35",
+            "name": "M35",
+            "kor_name": "결합조직의 기타 전신침범",
+            "eng_name": "Other systemic involvement of connective tissue",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "811eed53-e86b-4413-8258-0789ab0cb506",
+            "code": "M36",
+            "name": "M36",
+            "kor_name": "달리 분류된 질환에서의 결합조직의 전신장애",
+            "eng_name": "Systemic disorders of connective tissue in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2e767f33-a8fd-4312-a9c4-f8fa9dae2614",
+            "code": "M40-M43",
+            "name": "M40-M43",
+            "kor_name": "변형성 등병증(M40-M43)",
+            "eng_name": "Deforming dorsopathies(M40-M43)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a0aefe27-4748-4544-b3a2-f338ce82a1d1",
+            "code": "N00-N08",
+            "name": "N00-N08",
+            "kor_name": "사구체질환(N00-N08)",
+            "eng_name": "Glomerular diseases(N00-N08)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "046ad8bd-5420-446a-9828-c609d3fbde5e",
+            "code": "M50-M54",
+            "name": "M50-M54",
+            "kor_name": "기타 등병증(M50-M54)",
+            "eng_name": "Other dorsopathies(M50-M54)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "49689f3c-a51d-40e4-9cd0-9a5f5191bc35",
+            "code": "M65-M68",
+            "name": "M65-M68",
+            "kor_name": "윤활막 및 힘줄장애(M65-M68)",
+            "eng_name": "Disorders of synovium and tendon(M65-M68)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "940fdf11-6fc6-40a9-8cfc-2f391c52aaf0",
+            "code": "M70-M79",
+            "name": "M70-M79",
+            "kor_name": "기타 연조직장애(M70-M79)",
+            "eng_name": "Other soft tissue disorders(M70-M79)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "342f7f39-feee-49fd-bea2-ccb6139a9135",
+            "code": "N17-N19",
+            "name": "N17-N19",
+            "kor_name": "신부전(N17-N19)",
+            "eng_name": "Renal failure(N17-N19)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "01073ec5-d26b-4f96-9f3f-b68fe321471f",
+            "code": "M80-M85",
+            "name": "M80-M85",
+            "kor_name": "골밀도 및 구조장애(M80-M85)",
+            "eng_name": "Disorders of bone density and structure(M80-M85)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d8759ffc-f44e-4d2e-96d8-ccf6bd76a1c0",
+            "code": "W00-W19",
+            "name": "W00-W19",
+            "kor_name": "낙상(W00-W19)",
+            "eng_name": "Falls(W00-W19)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3007fed1-e0f6-4aa5-8ed1-b2aca09f9215",
+            "code": "M91-M94",
+            "name": "M91-M94",
+            "kor_name": "연골병증(M91-M94)",
+            "eng_name": "Chondropathies(M91-M94)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a8be566e-eca5-4db5-965e-3dff48f5b4cd",
+            "code": "M95-M99",
+            "name": "M95-M99",
+            "kor_name": "근골격계통 및 결합조직의 기타 장애(M95-M99)",
+            "eng_name": "Other disorders of the musculoskeletal system and connective tissue(M95-M99)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "24c1773f-faf1-4acb-9c1c-a78257e930bc",
+            "code": "N10-N16",
+            "name": "N10-N16",
+            "kor_name": "신세뇨관-간질질환(N10-N16)",
+            "eng_name": "Renal tubulo-interstitial diseases(N10-N16)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9b9a4cfe-3e73-423e-b1f4-232efb786d0c",
+            "code": "N25-N29",
+            "name": "N25-N29",
+            "kor_name": "신장 및 요관의 기타 장애(N25-N29)",
+            "eng_name": "Other disorders of kidney and ureter(N25-N29)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "64178906-e40e-4671-b521-90648deee11f",
+            "code": "N30-N39",
+            "name": "N30-N39",
+            "kor_name": "비뇨계통의 기타 질환(N30-N39)",
+            "eng_name": "Other diseases of the urinary system(N30-N39)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4e25f2c9-4ca1-4e64-9e52-b0db455cd53e",
+            "code": "N43",
+            "name": "N43",
+            "kor_name": "음낭수종 및 정액류",
+            "eng_name": "Hydrocele and spermatocele",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a338a201-cc5b-4504-9cb2-fd4af546f4f6",
+            "code": "N46",
+            "name": "N46",
+            "kor_name": "남성불임",
+            "eng_name": "Male infertility",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "aff94a9c-85da-4b37-8e9b-bc5c65c66453",
+            "code": "N60-N64",
+            "name": "N60-N64",
+            "kor_name": "유방의 장애(N60-N64)",
+            "eng_name": "Disorders of breast(N60-N64)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e6bf6d8f-d955-48f2-bc41-27b0c2da2e6c",
+            "code": "N80-N98",
+            "name": "N80-N98",
+            "kor_name": "여성생식관의 비염증성 장애(N80-N98)",
+            "eng_name": "Noninflammatory disorders of female genital tract(N80-N98)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "64143bab-d5c9-42bd-989e-c2a98934ff78",
+            "code": "N99",
+            "name": "N99",
+            "kor_name": "비뇨생식계통의 기타 장애(N99)",
+            "eng_name": "Other disorders of the genitourinary system(N99)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3ba1bb22-29e1-4e01-bd77-077fd400e299",
+            "code": "O80-O84",
+            "name": "O80-O84",
+            "kor_name": "분만(O80-O84)",
+            "eng_name": "Delivery(O80-O84)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6c71da94-c570-458e-8bfe-94858e3258db",
+            "code": "O00-O08",
+            "name": "O00-O08",
+            "kor_name": "유산된 임신(O00-O08)",
+            "eng_name": "Pregnancy with abortive outcome(O00-O08)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f1aa2513-e0a8-4f35-a8ae-286314919046",
+            "code": "O10-O16",
+            "name": "O10-O16",
+            "kor_name": "임신, 출산 및 산후기의 부종, 단백뇨 및 고혈압성 장애(O10-O16)",
+            "eng_name": "Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium(O10-O16)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0dd26141-bd47-443e-b733-645bce749f01",
+            "code": "O20",
+            "name": "O20",
+            "kor_name": "초기임신중 출혈",
+            "eng_name": "Haemorrhage in early pregnancy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "226651b4-e2f6-44f2-97ce-80f78fca0767",
+            "code": "O21",
+            "name": "O21",
+            "kor_name": "임신중 과다구토",
+            "eng_name": "Excessive vomiting in pregnancy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "fd6beecc-2369-45e0-b35f-6001b0dd9fa9",
+            "code": "O22",
+            "name": "O22",
+            "kor_name": "임신중 정맥합병증 및 치핵",
+            "eng_name": "Venous complications and haemorrhoids in pregnancy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "acab5bd0-309b-482b-9477-30ca0f8a8393",
+            "code": "O23",
+            "name": "O23",
+            "kor_name": "임신중 비뇨생식관의 감염",
+            "eng_name": "Infections of genitourinary tract in pregnancy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7d1c946f-776b-4d3e-bb55-c3a46e89599d",
+            "code": "O24",
+            "name": "O24",
+            "kor_name": "임신중 당뇨병",
+            "eng_name": "Diabetes mellitus in pregnancy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3f623d84-dd9e-4239-bcd9-62f6dada7c90",
+            "code": "O25",
+            "name": "O25",
+            "kor_name": "임신중 영양실조",
+            "eng_name": "Malnutrition in pregnancy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2741f5d9-64fd-41b7-b475-20306d21dae6",
+            "code": "O26",
+            "name": "O26",
+            "kor_name": "주로 임신에 관련된 기타 병태의 산모관리",
+            "eng_name": "Maternal care for other conditions predominantly related to pregnancy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a275b470-60f9-4185-bca8-908b96409eee",
+            "code": "O28",
+            "name": "O28",
+            "kor_name": "산모의 출산전 선별검사의 이상소견",
+            "eng_name": "Abnormal findings on antenatal screening of mother",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "130109a1-422f-4753-be37-92ab383dd996",
+            "code": "O29",
+            "name": "O29",
+            "kor_name": "임신중 마취의 합병증",
+            "eng_name": "Complications of anaesthesia during pregnancy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "dfa88af0-fe3e-405b-9ba8-49132155c2b5",
+            "code": "O30-O48",
+            "name": "O30-O48",
+            "kor_name": "태아와 양막강 그리고 가능한 분만문제에 관련된 산모관리(O30-O48)",
+            "eng_name": "Maternal care related to the fetus and amniotic cavity and possible delivery problems(O30-O48)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "86827ac1-8b3c-450d-819e-7d30ccd57245",
+            "code": "O60-O75",
+            "name": "O60-O75",
+            "kor_name": "진통 및 분만의 합병증(O60-O75)",
+            "eng_name": "Complications of labour and delivery(O60-O75)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a2cbd221-4d8b-4eda-bda6-0339abdb78b6",
+            "code": "O85-O92",
+            "name": "O85-O92",
+            "kor_name": "주로 산후기에 관련된 합병증(O85-O92)",
+            "eng_name": "Complications predominantly related to the puerperium(O85-O92)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8cde8069-95f2-4b3f-8e5c-8bc5e4a115d4",
+            "code": "O94-O99",
+            "name": "O94-O99",
+            "kor_name": "달리 분류되지 않은 기타 산과적 병태(O94-O99)",
+            "eng_name": "Other obstetric conditions, NEC(O94-O99)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f4d16b86-bba2-4135-afa8-d1c7dc1fcdc4",
+            "code": "P00-P04",
+            "name": "P00-P04",
+            "kor_name": "산모요인과 임신, 진통 및 분만의 합병증에 의해 영향을 받은 태아 및 신생아(P00-P04)",
+            "eng_name": "Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery(P00-P04)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9e5b53ab-d718-4674-8ba6-5723d2d80e6e",
+            "code": "P05-P08",
+            "name": "P05-P08",
+            "kor_name": "임신기간 및 태아성장과 관련된 장애(P05-P08)",
+            "eng_name": "Disorders related length of gestation and fetal growth(P05-P08)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3c1380ad-7cec-4d4f-a452-2ea1ce000000",
+            "code": "P20-P29",
+            "name": "P20-P29",
+            "kor_name": "출생전후기에 특이한 호흡기 및 심혈관장애(P20-P29)",
+            "eng_name": "Respiratory and cardiovascular disorders specific to the perinatal period(P20-P29)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4903f26d-6b00-467f-8909-b3a739206f18",
+            "code": "P35-P39",
+            "name": "P35-P39",
+            "kor_name": "출생전후기에 특이한 감염(P35-P39)",
+            "eng_name": "Infections specific to the perinatal period(P35-P39)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "10b45965-afa4-4fc6-b37e-7b372eb9276b",
+            "code": "Q35-Q37",
+            "name": "Q35-Q37",
+            "kor_name": "구순열 및 구개열(Q35-Q37)",
+            "eng_name": "Cleft lip and cleft palate(Q35-Q37)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2a298e08-f659-4cba-a22b-1de204576b1f",
+            "code": "P50-P61",
+            "name": "P50-P61",
+            "kor_name": "태아 및 신생아의 출혈성 및 혈액학적 장애(P50-P61)",
+            "eng_name": "Haemorrhagic and haematological disorders of fetus and newborn(P50-P61)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "588138b8-e715-46d0-b761-e5fe3c484096",
+            "code": "P70-P74",
+            "name": "P70-P74",
+            "kor_name": "태아 및 신생아에 특이한 일과성 내분비 및 대사 장애(P70-P74)",
+            "eng_name": "Transitory endocrine and metabolic disorders specific to fetus and newborn(P70-P74)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "14e23581-acb8-47a5-939d-791b7cfea0ba",
+            "code": "P75-P78",
+            "name": "P75-P78",
+            "kor_name": "태아 및 신생아의 소화계통장애(P75-P78)",
+            "eng_name": "Digestive system disorders of fetus and newborn(P75-P78)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f244221f-8615-436b-bdb1-6dbb5846f90a",
+            "code": "Q00-Q07",
+            "name": "Q00-Q07",
+            "kor_name": "신경계통의 선천기형(Q00-Q07)",
+            "eng_name": "Congenital malformations of the nervous system(Q00-Q07)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f31207cb-d4b9-4a86-a313-5894d70c1fcd",
+            "code": "P80-P83",
+            "name": "P80-P83",
+            "kor_name": "태아 및 신생아의 외피 및 체온조절에 관련된 병태(P80-P83)",
+            "eng_name": "Conditions involving the integument and temperature regulation of fetus and newborn(P80-P83)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b92e2965-4d82-4330-a56a-505819cc39df",
+            "code": "P90-P96",
+            "name": "P90-P96",
+            "kor_name": "출생전후기에 기원한 기타 장애(P90-P96)",
+            "eng_name": "Other disorders originating in the perinatal period(P90-P96)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "527bfca1-5cf1-4625-8850-775bed288f92",
+            "code": "Q18",
+            "name": "Q18",
+            "kor_name": "얼굴 및 목의 기타 선천기형",
+            "eng_name": "Other congenital malformations of face and neck",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3ab3627f-2964-45e1-a78a-1ca82a195501",
+            "code": "Q20-Q28",
+            "name": "Q20-Q28",
+            "kor_name": "순환계통의 선천기형(Q20-Q28)",
+            "eng_name": "Congenital malformations of the circulatory system(Q20-Q28)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d851996e-d72b-45e7-8d5f-949b1ef44781",
+            "code": "Q30-Q34",
+            "name": "Q30-Q34",
+            "kor_name": "호흡계통의 선천기형(Q30-Q34)",
+            "eng_name": "Congenital malformations of the respiratory system(Q30-Q34)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "99869fde-718c-498f-b565-4688f3143113",
+            "code": "Q38-Q45",
+            "name": "Q38-Q45",
+            "kor_name": "소화계통의 기타 선천기형(Q38-Q45)",
+            "eng_name": "Other congenital malformations of the digestive system(Q38-Q45)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5643e5cd-96d8-4b74-9ee4-13264c981abf",
+            "code": "Q50-Q56",
+            "name": "Q50-Q56",
+            "kor_name": "생식기관의 선천기형(Q50-Q56)",
+            "eng_name": "Congenital malformations of genital organs(Q50-Q56)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "dfdb8543-b728-43e3-bbc8-925cd883d32e",
+            "code": "S00-S09",
+            "name": "S00-S09",
+            "kor_name": "머리의 손상(S00-S09)",
+            "eng_name": "Injuries to the head(S00-S09)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e2d9ae47-7231-4246-8a0b-8a53c451f867",
+            "code": "Q60-Q64",
+            "name": "Q60-Q64",
+            "kor_name": "비뇨계통의 선천기형(Q60-Q64)",
+            "eng_name": "Congenital malformations of the urinary system(Q60-Q64)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "16dd02d6-1e3c-498e-9ceb-40e012e8a2a2",
+            "code": "Q65-Q79",
+            "name": "Q65-Q79",
+            "kor_name": "근골격계통의 선천기형 및 변형(Q65-Q79)",
+            "eng_name": "Congenital malformations and deformations of the musculoskeletal system(Q65-Q79)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2e140e21-ea8d-48a4-9ef2-79c5471a74a2",
+            "code": "Q80-Q89",
+            "name": "Q80-Q89",
+            "kor_name": "기타 선천기형(Q80-Q89)",
+            "eng_name": "Other congenital malformations(Q80-Q89)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d077933c-fc5e-4906-8d71-7e83d030b890",
+            "code": "Q90-Q99",
+            "name": "Q90-Q99",
+            "kor_name": "달리 분류되지 않은 염색체이상(Q90-Q99)",
+            "eng_name": "Chromosomal abnormalities, NEC(Q90-Q99)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "44ab0cb6-7af2-4d95-bb26-af12b46a4356",
+            "code": "R35",
+            "name": "R35",
+            "kor_name": "다뇨",
+            "eng_name": "Polyuria",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a542204f-df68-4a16-8ebb-54c69c735e18",
+            "code": "R18",
+            "name": "R18",
+            "kor_name": "복수",
+            "eng_name": "Ascites",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e3f8706c-ec60-4fa3-9c39-bbed38a616d6",
+            "code": "R02",
+            "name": "R02",
+            "kor_name": "달리 분류되지 않은 괴저",
+            "eng_name": "Gangrene, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9bf038e5-6d5c-4865-bb37-95c6802abe08",
+            "code": "R03",
+            "name": "R03",
+            "kor_name": "진단명 없는 혈압수치이상",
+            "eng_name": "Abnormal blood-pressure reading, without diagnosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "bd38c962-8814-4e3a-986c-4de7a108af7b",
+            "code": "R04",
+            "name": "R04",
+            "kor_name": "기도출혈",
+            "eng_name": "Haemorrhage from respiratory passages",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0906d985-b281-41ae-9a0e-32e1aeaed347",
+            "code": "R05",
+            "name": "R05",
+            "kor_name": "기침",
+            "eng_name": "Cough",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "92f44676-570f-462b-b04f-947926068b77",
+            "code": "R06",
+            "name": "R06",
+            "kor_name": "호흡의 이상",
+            "eng_name": "Abnormalities of breathing",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "488e517a-55a4-4013-afde-35eefa6ef017",
+            "code": "R07",
+            "name": "R07",
+            "kor_name": "목구멍 및 가슴의 통증",
+            "eng_name": "Pain in throat and chest",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1319df5c-d2e8-4e89-82d5-4ec19708be49",
+            "code": "R09",
+            "name": "R09",
+            "kor_name": "순환계통 및 호흡계통의 기타 증상 및 징후",
+            "eng_name": "Other symptoms and signs involving the circulatory and respiratory systems",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "332d52cf-1a2d-4dcc-9b45-146af791167b",
+            "code": "R10",
+            "name": "R10",
+            "kor_name": "복부 및 골반 통증",
+            "eng_name": "Abdominal and pelvic pain",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "72b7b285-eead-4ebc-ab40-8d5cfbd668ce",
+            "code": "R11",
+            "name": "R11",
+            "kor_name": "구역 및 구토",
+            "eng_name": "Nausea and vomiting",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "df77d3ef-60ab-4dee-b3c8-799286090f43",
+            "code": "R12",
+            "name": "R12",
+            "kor_name": "속쓰림",
+            "eng_name": "Heartburn",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ff9feb85-9b65-4f6a-8a2c-c0dc2d5b3a22",
+            "code": "R13",
+            "name": "R13",
+            "kor_name": "삼킴곤란",
+            "eng_name": "Dysphagia",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9bb79575-58a9-4f98-8d6c-b004354f8445",
+            "code": "R14",
+            "name": "R14",
+            "kor_name": "고창 및 연관된 병태",
+            "eng_name": "Flatulence and related conditions",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a02ac507-0b17-4218-8bfb-39eff90c778f",
+            "code": "R15",
+            "name": "R15",
+            "kor_name": "대변실금",
+            "eng_name": "Faecal incontinence",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "45443c33-1067-4260-bfbf-ce085be57f58",
+            "code": "R16",
+            "name": "R16",
+            "kor_name": "달리 분류되지 않은 간비대 및 비장비대",
+            "eng_name": "Hepatomegaly and splenomegaly, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f082ed69-3ec8-4327-bf7b-c70e4b17781e",
+            "code": "R17",
+            "name": "R17",
+            "kor_name": "황달을 동반하거나 동반하지 않은 달리 분류되지 않은 과빌리루빈혈증 ",
+            "eng_name": "Hyperbilirubinaemia, with or without jaundice, not  elsewhere classified)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "52c294b6-6cb1-4d9f-9803-d9f1f6822e26",
+            "code": "R55",
+            "name": "R55",
+            "kor_name": "실신 및 허탈",
+            "eng_name": "Syncope and collapse",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "147349fd-c359-40da-a46e-c7a5a9c3b739",
+            "code": "R19",
+            "name": "R19",
+            "kor_name": "소화계통 및 복부의 기타 증상 및 징후",
+            "eng_name": "Other symptoms and signs involving the digestive system and abdomen",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b2196a88-59d3-4d1b-bf04-eca0fdd79f79",
+            "code": "R19.0",
+            "name": "R19.0",
+            "kor_name": "복강내 및 골반의 부기, 종괴 및 덩이",
+            "eng_name": "Intra-abdominal and pelvic swelling, mass and lump",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7108d1be-c8fd-4051-bd1b-14192788e8fb",
+            "code": "R19.1",
+            "name": "R19.1",
+            "kor_name": "이상장음",
+            "eng_name": "Abnormal bowel sounds",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8ff7e715-a880-4bef-a14f-05ff29ac767a",
+            "code": "R19.2",
+            "name": "R19.2",
+            "kor_name": "가시적 꿈틀운동",
+            "eng_name": "Visible peristalsis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f3f9693d-ccdf-4df1-891c-e25ca64e8cc3",
+            "code": "R19.3",
+            "name": "R19.3",
+            "kor_name": "복부경직",
+            "eng_name": "Abdominal rigidity",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "95685ea9-96cd-4a7a-b914-501327e926d0",
+            "code": "R19.4",
+            "name": "R19.4",
+            "kor_name": "배변습관 변화",
+            "eng_name": "Change in bowel habit",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "36d19d6b-7736-400d-b503-ded760634824",
+            "code": "R19.5",
+            "name": "R19.5",
+            "kor_name": "기타 대변이상",
+            "eng_name": "Other faecal abnormalities",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3196e2fc-1b2b-45e6-922d-8c23318bce45",
+            "code": "R19.6",
+            "name": "R19.6",
+            "kor_name": "구취증",
+            "eng_name": "Halitosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "cdce3f24-04ef-42ca-bf04-e96e42212b4e",
+            "code": "R19.8",
+            "name": "R19.8",
+            "kor_name": "소화계통 및 복부에 관한 기타 명시된 증상 및 징후",
+            "eng_name": "Other specified symptoms and signs involving the digestive system and abdomen",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "25efbfbf-c711-41d4-92b2-662f50235db7",
+            "code": "R20",
+            "name": "R20",
+            "kor_name": "피부감각의 장애",
+            "eng_name": "Disturbances of skin sensation",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ee1c8785-a3a5-4538-a60b-092d0d803eb2",
+            "code": "R21",
+            "name": "R21",
+            "kor_name": "발진 및 기타 비특이성 피부발진",
+            "eng_name": "Rash and other nonspecific skin eruption",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4abd9e13-2a56-4a7b-a60e-559fc7f55514",
+            "code": "R22",
+            "name": "R22",
+            "kor_name": "피부 및 피하조직의 국소적 부기, 종괴 및 덩이",
+            "eng_name": "Localized swelling, mass and lump of skin and subcutaneous tissue",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0cc75a82-1698-46b9-b2e6-b89187b97b0f",
+            "code": "R23",
+            "name": "R23",
+            "kor_name": "기타 피부변화",
+            "eng_name": "Other skin changes",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "45934f0b-28b2-4971-ae45-a1121d80e9dd",
+            "code": "R23.0",
+            "name": "R23.0",
+            "kor_name": "청색증",
+            "eng_name": "Cyanosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "677924ac-5a83-4d95-828f-21c04f7ece3f",
+            "code": "R23.1",
+            "name": "R23.1",
+            "kor_name": "창백",
+            "eng_name": "Pallor",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "476e4a5b-d239-4676-ad78-ee9d3fff2b78",
+            "code": "R23.2",
+            "name": "R23.2",
+            "kor_name": "홍조",
+            "eng_name": "Flushing",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "52632d67-e9d0-4e65-b1cc-8f318641d3ac",
+            "code": "R23.3",
+            "name": "R23.3",
+            "kor_name": "자발반출혈",
+            "eng_name": "Spontaneous ecchymoses",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e3198743-fbee-47af-9b82-61106d21521f",
+            "code": "R23.4",
+            "name": "R23.4",
+            "kor_name": "피부조직의 변화",
+            "eng_name": "Changes in skin texture",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2f6b70e4-68cd-4be4-a0ba-364061eaf7cb",
+            "code": "R23.8",
+            "name": "R23.8",
+            "kor_name": "기타 및 상세불명의 피부변화",
+            "eng_name": "Other and unspecified skin changes",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "241adc33-d528-4025-adcd-23b130e27fce",
+            "code": "R29",
+            "name": "R29",
+            "kor_name": "신경계통 및 근골격계통의 기타 증상 및 징후",
+            "eng_name": "Other symptoms and signs involving the nervous and musculoskeletal systems",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f8e9cac4-480e-47f8-9e99-8ca753a566ca",
+            "code": "R29.0",
+            "name": "R29.0",
+            "kor_name": "테타니",
+            "eng_name": "Tetany",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1b25459a-007e-4c41-b98c-72c4ee56d00f",
+            "code": "R29.1",
+            "name": "R29.1",
+            "kor_name": "수막증",
+            "eng_name": "Meningismus",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8d1680a1-1788-41d2-97b8-bb64b4da8877",
+            "code": "R29.2",
+            "name": "R29.2",
+            "kor_name": "이상반사",
+            "eng_name": "Abnormal reflex",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c78325ca-3e99-4a88-8c58-989c87ae62fe",
+            "code": "R29.3",
+            "name": "R29.3",
+            "kor_name": "이상자세",
+            "eng_name": "Abnormal posture",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "edc4578a-6968-4151-9e7c-c5d926f28bf5",
+            "code": "R29.4",
+            "name": "R29.4",
+            "kor_name": "고음고관절",
+            "eng_name": "Clicking hip",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "89c28b66-b2b6-4c17-9f5e-92c1a475f36a",
+            "code": "R29.6",
+            "name": "R29.6",
+            "kor_name": "달리 분류되지 않은 넘어지는 경향",
+            "eng_name": "Tendency to fall, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "aba0f3fa-1fcc-425d-94c8-f96dc039fb33",
+            "code": "R29.8",
+            "name": "R29.8",
+            "kor_name": "신경계통 및 근골격계통의 기타 및 상세불명의 증상 및 징후",
+            "eng_name": "Other and unspecified symptoms and signs involving the nervous and musculoskeletal systems",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "64465d00-6a61-4ab4-9f8b-3bd16a1621f8",
+            "code": "R30",
+            "name": "R30",
+            "kor_name": "배뇨와 연관된 통증",
+            "eng_name": "Pain associated with micturition",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1019a27c-52c4-443b-85a0-fdd923caffcb",
+            "code": "R31",
+            "name": "R31",
+            "kor_name": "상세불명의 혈뇨",
+            "eng_name": "Unspecified haematuria",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0ae0b3a3-fc01-44b1-b536-d7b07694a3e8",
+            "code": "R32",
+            "name": "R32",
+            "kor_name": "상세불명의 요실금",
+            "eng_name": "Unspecified urinary incontinence",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c56119ac-44c9-429c-9087-c6eb4138da2d",
+            "code": "R33",
+            "name": "R33",
+            "kor_name": "소변정체",
+            "eng_name": "Retention of urine",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a5aecdff-5370-49b5-8e7e-9528f5e6a1e6",
+            "code": "R34",
+            "name": "R34",
+            "kor_name": "무뇨 및 핍뇨",
+            "eng_name": "Anuria and oliguria",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "773b9f3b-82ee-4d10-b403-f555ac3afbd0",
+            "code": "R36",
+            "name": "R36",
+            "kor_name": "요도분비물",
+            "eng_name": "Urethral discharge",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4f6a3649-31d3-48d4-9818-9fc2a1a9f38e",
+            "code": "R39",
+            "name": "R39",
+            "kor_name": "비뇨계통의 기타 증상 및 징후",
+            "eng_name": "Other symptoms and signs involving the urinary system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d7ff829a-0e80-4a37-a0b7-003b3d943f79",
+            "code": "R40",
+            "name": "R40",
+            "kor_name": "기면, 혼미 및 혼수",
+            "eng_name": "Somnolence, stupor and coma",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1016558d-c0d6-4306-aa4a-4dac4d35f208",
+            "code": "R41",
+            "name": "R41",
+            "kor_name": "인지기능 및 자각에 관련된 기타 증상 및 징후",
+            "eng_name": "Other symptoms and signs involving cognitive functions and awareness",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6a00ba8a-c5c5-4827-b4a8-86e3b35ebf91",
+            "code": "R42",
+            "name": "R42",
+            "kor_name": "어지럼증 및 어지럼",
+            "eng_name": "Dizziness and giddiness",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9dd4be9d-ba92-40c2-b7e1-0c637b9d4552",
+            "code": "R43",
+            "name": "R43",
+            "kor_name": "후각 및 미각 장애",
+            "eng_name": "Disturbances of smell and taste",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c6953ee7-f1b4-452e-9eb9-328d3dc10732",
+            "code": "R44",
+            "name": "R44",
+            "kor_name": "일반적 감각 및 지각에 관련된 기타 증상 및 징후",
+            "eng_name": "Other symptoms and signs involving general sensations and perceptions",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2d20c899-78fb-423e-a95f-d80e83c5229e",
+            "code": "R61",
+            "name": "R61",
+            "kor_name": "다한증",
+            "eng_name": "Hyperhidrosis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ebc37b89-d4ff-48a0-b5c3-2d4ca5ed7608",
+            "code": "R45",
+            "name": "R45",
+            "kor_name": "정서상태에 관련된 증상 및 징후",
+            "eng_name": "Symptoms and signs involving emotional state",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d9652111-bf96-4640-8a13-c441a56bbb44",
+            "code": "R46",
+            "name": "R46",
+            "kor_name": "외양 및 행동에 관련된 증상 및 징후",
+            "eng_name": "Symptoms and signs involving appearance and behaviour",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "86bbfa57-5185-4473-87ff-c8dd1d178c49",
+            "code": "R47",
+            "name": "R47",
+            "kor_name": "달리 분류되지 않은 언어장애",
+            "eng_name": "Speech disturbances, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "da777dc8-672e-45ed-bb04-84afc09e9e35",
+            "code": "R48",
+            "name": "R48",
+            "kor_name": "달리 분류되지 않은 난독증 및 기타 상징적 기능이상",
+            "eng_name": "Dyslexia and other symbolic dysfunctions, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7235f95a-4d62-443f-9c23-174f0b614bb7",
+            "code": "R49",
+            "name": "R49",
+            "kor_name": "음성장애",
+            "eng_name": "Voice disturbances",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "97eb9e54-90cc-4514-bc33-a37fc6e04b45",
+            "code": "R50",
+            "name": "R50",
+            "kor_name": "기타 및 원인미상의 열",
+            "eng_name": "Fever of other and unknown origin",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e7bcb169-ed3a-4ef1-8f4a-285fdfa0c3dc",
+            "code": "R51",
+            "name": "R51",
+            "kor_name": "두통",
+            "eng_name": "Headache",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "988f8e54-6dea-4a64-9486-2c4056d010e8",
+            "code": "R52",
+            "name": "R52",
+            "kor_name": "달리 분류되지 않은 통증",
+            "eng_name": "Pain, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e4cc4589-510c-4d02-a6e2-c94950bc9d85",
+            "code": "R53",
+            "name": "R53",
+            "kor_name": "병감 및 피로",
+            "eng_name": "Malaise and fatigue",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e50e9b8c-b8c6-48ec-b6f5-43283d8db21e",
+            "code": "R54",
+            "name": "R54",
+            "kor_name": "노쇠",
+            "eng_name": "Senility",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "45421d80-32a2-4b9f-a99b-76ee93837074",
+            "code": "R56",
+            "name": "R56",
+            "kor_name": "달리 분류되지 않은 경련",
+            "eng_name": "Convulsions, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3f646082-8358-4bf1-a843-f53addf1f8d9",
+            "code": "R57",
+            "name": "R57",
+            "kor_name": "달리 분류되지 않은 쇼크",
+            "eng_name": "Shock, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5cc57ea7-2f53-4a25-8faf-78e8085a7d1b",
+            "code": "R58",
+            "name": "R58",
+            "kor_name": "달리 분류되지 않은 출혈",
+            "eng_name": "Haemorrhage, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ef1f55d7-4234-4db6-b462-e43273a4bb1b",
+            "code": "R59",
+            "name": "R59",
+            "kor_name": "림프절비대",
+            "eng_name": "Enlarged lymph nodes",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a75be940-d9a2-43a0-aabb-9368cc4d59a2",
+            "code": "R60",
+            "name": "R60",
+            "kor_name": "달리 분류되지 않은 부종",
+            "eng_name": "Oedema, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "63537501-f3e9-4a9f-9415-9d582fd60dee",
+            "code": "R62",
+            "name": "R62",
+            "kor_name": "기대되는 정상 생리학적 발달의 결여",
+            "eng_name": "Lack of expected normal physiological development",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a9306799-5a5a-4a76-ad2f-24048cf82a11",
+            "code": "R63",
+            "name": "R63",
+            "kor_name": "음식 및 수액 섭취에 관계된 증상 및 징후",
+            "eng_name": "Symptoms and signs concerning food and fluid intake",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "aef39f3d-00ff-48d7-8261-3a9d32bbe983",
+            "code": "R64",
+            "name": "R64",
+            "kor_name": "카켁시아",
+            "eng_name": "Cachexia",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d692be47-0d21-4062-8f89-b7390e4154c8",
+            "code": "R65",
+            "name": "R65",
+            "kor_name": "전신염증반응증후군",
+            "eng_name": "Systemic Inflammatory Response Syndrome",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "461c52b9-13d3-4536-ab41-0f422ecc9bd9",
+            "code": "R68",
+            "name": "R68",
+            "kor_name": "기타 전신 증상 및 징후",
+            "eng_name": "Other general symptoms and signs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9fcbad8a-d35c-480c-9f86-6a3a1609cfed",
+            "code": "R69",
+            "name": "R69",
+            "kor_name": "미상 및 상세불명의 병인",
+            "eng_name": "Unknown and unspecified causes of morbidity",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "bed39463-629c-445a-a111-ef4bd35f231d",
+            "code": "R72",
+            "name": "R72",
+            "kor_name": "달리 분류되지 않은 백혈구의 이상",
+            "eng_name": "Abnormality of white blood cells, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "fc65d75d-02bf-43e4-bf6d-f1ebdd244370",
+            "code": "R73",
+            "name": "R73",
+            "kor_name": "혈당치상승",
+            "eng_name": "Elevated blood glucose level",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d32b5d12-4b6a-4d2d-8ca2-5cb0bdcec8f6",
+            "code": "R74",
+            "name": "R74",
+            "kor_name": "이상혈청효소수치",
+            "eng_name": "Abnormal serum enzyme levels",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3360aa9d-9f47-4272-ad74-135fab2f9f12",
+            "code": "R75",
+            "name": "R75",
+            "kor_name": "사람면역결핍바이러스의 검사실 증거",
+            "eng_name": "Laboratory evidence of human immunodeficiency virus[HIV]",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8ba0ab03-83fb-4f3d-9e07-1552d94deede",
+            "code": "R76",
+            "name": "R76",
+            "kor_name": "혈청의 기타 면역학적 이상소견",
+            "eng_name": "Other abnormal immunological findings in serum",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "fc8e3e98-7140-40f8-b510-997caa70e18f",
+            "code": "R77",
+            "name": "R77",
+            "kor_name": "혈장단백질의 기타 이상",
+            "eng_name": "Other abnormalities of plasma proteins",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "84f03c3b-c983-4bc7-a65a-e85acef17688",
+            "code": "R78",
+            "name": "R78",
+            "kor_name": "정상적으로는 혈액내에 없는 약물 및 기타 물질의 소견",
+            "eng_name": "Findings of drugs and other substances, not normally found in blood",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c0b79f96-e2cd-49f1-8392-ff04fbf259c0",
+            "code": "R79",
+            "name": "R79",
+            "kor_name": "혈액화학의 기타 이상소견",
+            "eng_name": "Other abnormal findings of blood chemistry",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "41e70c40-7fd8-4587-86ba-166ef5302b95",
+            "code": "R80",
+            "name": "R80",
+            "kor_name": "고립된 단백뇨",
+            "eng_name": "Isolated proteinuria",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "fc6a4b5e-62a7-4de7-bd3e-de4919658465",
+            "code": "R81",
+            "name": "R81",
+            "kor_name": "당뇨",
+            "eng_name": "Glycosuria",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "971ea3ea-82ee-4c7a-b5e7-b99e53520eec",
+            "code": "R82",
+            "name": "R82",
+            "kor_name": "요의 기타 이상소견",
+            "eng_name": "Other abnormal findings in urine",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "96031512-db16-4fce-a31d-3f7ee35687a7",
+            "code": "R83",
+            "name": "R83",
+            "kor_name": "뇌척수액의 이상소견",
+            "eng_name": "Abnormal findings in cerebrospinal fluid",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a73e9941-87c9-4021-a7bd-9d9d87bdbe42",
+            "code": "R84",
+            "name": "R84",
+            "kor_name": "호흡기관 및 흉부 검사물의 이상소견",
+            "eng_name": "Abnormal findings in specimens from respiratory organs and thorax",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "116edb90-ed3c-41be-a2c4-a9832f9ac254",
+            "code": "R85",
+            "name": "R85",
+            "kor_name": "소화기관 및 복강 검사물의 이상소견",
+            "eng_name": "Abnormal findings in specimens from digestive organs and abdominal cavity",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e8d0de0c-c33f-43cb-a483-bf89cda58bea",
+            "code": "R86",
+            "name": "R86",
+            "kor_name": "남성생식기관 검사물의 이상소견",
+            "eng_name": "Abnormal findings in specimens from male genital organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9b665e25-144e-414a-a598-f91e3b0e0d7b",
+            "code": "R92",
+            "name": "R92",
+            "kor_name": "유방의 진단영상검사상 이상소견",
+            "eng_name": "Abnormal findings on diagnostic imaging of breast",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4e5373d9-e03f-4680-b67e-7768fee72f59",
+            "code": "R87",
+            "name": "R87",
+            "kor_name": "여성생식기관 검사물의 이상소견",
+            "eng_name": "Abnormal findings in specimens from female genital organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b58c2ce9-8c0a-4c2d-bbd1-ea8fd6bd9e47",
+            "code": "R89",
+            "name": "R89",
+            "kor_name": "기타 기관, 계통 및 조직 검사물의 이상소견",
+            "eng_name": "Abnormal findings in specimens from other organs, systems and tissues",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ff071d07-a31a-48a7-88c5-d411aaf3328d",
+            "code": "R90",
+            "name": "R90",
+            "kor_name": "중추신경계통의 진단영상검사상 이상소견",
+            "eng_name": "Abnormal findings on diagnostic imaging of central nervous system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9427429d-87aa-453a-bcf7-656a6a0d0704",
+            "code": "R91",
+            "name": "R91",
+            "kor_name": "폐의 진단영상검사상 이상소견",
+            "eng_name": "Abnormal findings on diagnostic imaging of lung",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b4981799-91ce-4bcc-9d66-9a283be39073",
+            "code": "R93",
+            "name": "R93",
+            "kor_name": "기타 신체구조의 진단영상검사상 이상소견",
+            "eng_name": "Abnormal findings on diagnostic imaging of other body structures",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "cb7f5e03-425d-4a57-9f0f-9221c6a819fd",
+            "code": "R94",
+            "name": "R94",
+            "kor_name": "기능검사의 이상결과",
+            "eng_name": "Abnormal results of function studies",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1828d2c8-2626-425a-8864-528a121b0a84",
+            "code": "R99",
+            "name": "R99",
+            "kor_name": "기타 불명확하고 상세불명의 사망원인",
+            "eng_name": "Other ill-defined and unspecified causes of mortality",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "770e298b-c90b-4109-afdf-2003d85eb020",
+            "code": "R95",
+            "name": "R95",
+            "kor_name": "영아돌연사증후군",
+            "eng_name": "Sudden infant death syndrome",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9c0134dd-46f3-462f-b8d1-c3566c060141",
+            "code": "R96",
+            "name": "R96",
+            "kor_name": "원인 미상의 기타 돌연사",
+            "eng_name": "Other sudden death, cause unknown",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "769a2425-110e-4cf5-b1fb-da8074f33e4e",
+            "code": "R98",
+            "name": "R98",
+            "kor_name": "지켜본 사람이 없었던 사망",
+            "eng_name": "Unattended death",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9fb579ec-cb93-40f4-b6f8-da4b22852580",
+            "code": "S10-S19",
+            "name": "S10-S19",
+            "kor_name": "목의 손상(S10-S19)",
+            "eng_name": "Injuries to the neck(S10-S19)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "db57fe2f-f6ef-4c5c-92bd-aca15ab83392",
+            "code": "S20-S29",
+            "name": "S20-S29",
+            "kor_name": "흉부의 손상(S20-S29)",
+            "eng_name": "Injuries to the thorax(S20-S29)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "342fc463-d488-4bbf-9555-088124e0a8a9",
+            "code": "T51-T65",
+            "name": "T51-T65",
+            "kor_name": "출처가 주로 비의약품인 물질의 독성효과(T51-T65)",
+            "eng_name": "Toxic effects of substances chiefly nonmedicinal as to source(T51-T65)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "07fffdca-acc3-43e6-951b-1b19016863bc",
+            "code": "S30-S39",
+            "name": "S30-S39",
+            "kor_name": "복부, 아래등, 요추 및 골반의 손상(S30-S39)",
+            "eng_name": "Injuries to the abdomen, lower back, lumbar spine and pelvis(S30-S39)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "cc8ef25c-6cf4-4e97-8bdd-3c33d42ddf9c",
+            "code": "S40-S49",
+            "name": "S40-S49",
+            "kor_name": "어깨 및 위팔의 손상(S40-S49)",
+            "eng_name": "Injuries to the shoulder and upper arm(S40-S49)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "94aea501-c103-411b-8953-d2ccad2ad3f2",
+            "code": "S70-S79",
+            "name": "S70-S79",
+            "kor_name": "고관절 및 대퇴의 손상(S70-S79)",
+            "eng_name": "Injuries to the hip and thigh(S70-S79)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f0b125af-dc25-49bb-a06b-f01a87f60864",
+            "code": "T15-T19",
+            "name": "T15-T19",
+            "kor_name": "자연개구를 통해 들어간 이물의 영향(T15-T19)",
+            "eng_name": "Effects of foreign body entering through natural orifice(T15-T19)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d4109af9-5039-4e9e-bdaa-368b01ad07b3",
+            "code": "S50-S59",
+            "name": "S50-S59",
+            "kor_name": "팔꿈치 및 아래팔의 손상(S50-S59)",
+            "eng_name": "Injuries to the elbow and forearm(S50-S59)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "42827610-2fa2-461c-afb7-44b37cb1f345",
+            "code": "T66-T78",
+            "name": "T66-T78",
+            "kor_name": "외인의 기타 및 상세불명의 영향(T66-T78)",
+            "eng_name": "Other and unspecified effects of external causes(T66-T78)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a0d754a5-4dc2-4bba-8d92-043a978b29db",
+            "code": "S60-S69",
+            "name": "S60-S69",
+            "kor_name": "손목 및 손의 손상(S60-S69)",
+            "eng_name": "Injuries to the wrist and hand(S60-S69)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ead9c97a-b91a-42d3-91b2-b8762556fa35",
+            "code": "S80-S89",
+            "name": "S80-S89",
+            "kor_name": "무릎 및 아래다리의 손상(S80-S89)",
+            "eng_name": "Injuries to the knee and lower leg(S80-S89)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "50e72da0-7dd2-4fd0-8d93-781610fc5b1a",
+            "code": "S90-S99",
+            "name": "S90-S99",
+            "kor_name": "발목 및 발의 손상(S90-S99)",
+            "eng_name": "Injuries to the ankle and foot(S90-S99)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "615f563d-d321-4dfa-9956-979b5b52e3ff",
+            "code": "T00-T07",
+            "name": "T00-T07",
+            "kor_name": "여러 신체부위를 침범한 손상(T00-T07)",
+            "eng_name": "Injuries involving multiple body regions(T00-T07)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "fc3cf964-3eea-4d8d-830d-2483e5b58406",
+            "code": "T33-T35",
+            "name": "T33-T35",
+            "kor_name": "동상(T33-T35)",
+            "eng_name": "Frostbite(T33-T35)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "77b74de3-db61-4f6d-9f35-4fee54a431e6",
+            "code": "T08-T14",
+            "name": "T08-T14",
+            "kor_name": "몸통, 사지 또는 신체부위의 상세불명 부분의 손상(T08-T14)",
+            "eng_name": "Injuries to unspecified part of trunk, limb or body region(T08-T14)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7684672c-dce5-40f1-abb4-57e318e845e8",
+            "code": "T20-T25",
+            "name": "T20-T25",
+            "kor_name": "부위가 명시된 외부 신체 표면의 화상 및 부식(T20-T25)",
+            "eng_name": "Burns and corrosions of external body surface, specified by site(T20-T25)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "be619e2e-8cda-4ce0-a949-9d376a808842",
+            "code": "T29-T32",
+            "name": "T29-T32",
+            "kor_name": "다발성 및 상세불명 신체부위의 화상 및 부식(T29-T32)",
+            "eng_name": "Burns and corrosions of multiple and unspecified body regions(T29-T32)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "313015f2-1262-4d76-a931-d55d614ff0b3",
+            "code": "T26-T28",
+            "name": "T26-T28",
+            "kor_name": "눈 및 내부기관에 국한된 화상 및 부식(T26-T28)",
+            "eng_name": "Burns and corrosions confined to eye and internal organs(T26-T28)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c3155c4f-7739-47b6-b658-bf9ee0d52267",
+            "code": "T36-T50",
+            "name": "T36-T50",
+            "kor_name": "약물, 약제 및 생물학적 물질에 의한 중독(T36-T50)",
+            "eng_name": "Poisoning by drugs, medicaments and biological substances(T36-T50)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d98423ad-bf2a-499e-ad4c-b107a3cd0342",
+            "code": "T79",
+            "name": "T79",
+            "kor_name": "외상의 특정 조기합병증(T79)",
+            "eng_name": "Certain early complications of trauma(T79)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a663a980-551f-4d2e-b5ab-59a4ba0b7019",
+            "code": "T80-T88",
+            "name": "T80-T88",
+            "kor_name": "달리 분류되지 않은 외과적 및 내과적 치료의 합병증(T80-T88)",
+            "eng_name": "Complications of surgical and medical care, NEC(T80-T88)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "58dee55f-187c-48c3-b0c5-a8193a7b0a04",
+            "code": "T90-T98",
+            "name": "T90-T98",
+            "kor_name": "손상, 중독 및 외인에 의한 기타 결과의 후유증(T90-T98)",
+            "eng_name": "Sequelae of injuries, of poisoning and of other consequences of external causes(T90-T98)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "bf697a60-24f4-4144-ad20-630fbdd7c3d4",
+            "code": "X30-X39",
+            "name": "X30-X39",
+            "kor_name": "자연의 힘에 노출(X30-X39)",
+            "eng_name": "Exposure to forces of nature(X30-X39)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2dc79eb7-1471-4bae-9dcc-34b0d3c4d78c",
+            "code": "X50-X57",
+            "name": "X50-X57",
+            "kor_name": "과잉노력, 여행 및 결핍(X50-X57)",
+            "eng_name": "Overexertion, travel and privation(X50-X57)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3cabd841-84d4-4b34-99d6-eda9edd51a6c",
+            "code": "W20-W49",
+            "name": "W20-W49",
+            "kor_name": "무생물성 기계적 힘에 노출(W20-W49)",
+            "eng_name": "Exposure to inanimate mechanical forces(W20-W49)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f08e4a5b-8c41-411a-9ac7-c49e6889ef56",
+            "code": "X85-Y09",
+            "name": "X85-Y09",
+            "kor_name": "가해(X85-Y09)",
+            "eng_name": "Assault(X85-Y09)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f45c4399-7923-4e12-9a51-5b67c23eecf8",
+            "code": "Y10-Y34",
+            "name": "Y10-Y34",
+            "kor_name": "의도 미확인 사건(Y10-Y34)",
+            "eng_name": "Event of undetermined intent(Y10-Y34)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5d9ea93a-41f8-4e9d-b20c-4449ba678f4e",
+            "code": "W50-W64",
+            "name": "W50-W64",
+            "kor_name": "생물성 기계적 힘에 노출(W50-W64)",
+            "eng_name": "Exposure to animate mechanical forces(W50-W64)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e00a8f5b-5534-4912-a8c4-a2b450f83161",
+            "code": "W65-W74",
+            "name": "W65-W74",
+            "kor_name": "우발적 익사 및 익수(W65-W74)",
+            "eng_name": "Accidental drowning and submersion(W65-W74)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4068160d-288a-4f46-b970-c18fc0f68f3e",
+            "code": "W75-W84",
+            "name": "W75-W84",
+            "kor_name": "기타 호흡과 관련된 불의의 위협(W75-W84)",
+            "eng_name": "Other accidental threats to breathing(W75-W84)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "51ad18cf-793e-4787-a679-c69b551846ec",
+            "code": "X20-X29",
+            "name": "X20-X29",
+            "kor_name": "독액성 동물 및 식물과의 접촉(X20-X29)",
+            "eng_name": "Contact with venomous animals and plants(X20-X29)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "69c005b7-5cd0-4a62-8087-d23e298c79c3",
+            "code": "X40-X49",
+            "name": "X40-X49",
+            "kor_name": "유독성 물질에 의한 불의의 중독 및 노출(X40-X49)",
+            "eng_name": "Accidental poisoning by and exposure to noxious substances(X40-X49)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2f2f7294-8eaf-411b-8dc8-82c3c5187d2a",
+            "code": "X58-X59",
+            "name": "X58-X59",
+            "kor_name": "기타 및 상세불명의 요인에 대한 사고피폭(X58-X59)",
+            "eng_name": "Accidental exposure to other and unspecified factors(X58-X59)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a659e46f-e8c0-4700-a0b4-6941bd8dcb87",
+            "code": "X60-X84",
+            "name": "X60-X84",
+            "kor_name": "고의적 자해(X60-X84)",
+            "eng_name": "Intentional self-harm(X60-X84)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4a5c4add-ea32-435f-be42-7d94696f0da8",
+            "code": "Y35-Y36",
+            "name": "Y35-Y36",
+            "kor_name": "법적 개입 및 전쟁행위(Y35-Y36)",
+            "eng_name": "Legal intervention and operations of war(Y35-Y36)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0be9bddb-144d-4015-a5f7-8212b59f6dd2",
+            "code": "Y40-Y59",
+            "name": "Y40-Y59",
+            "kor_name": "치료용으로 사용시 유해작용을 나타내는 약물, 약제 및 생물학 물질(Y40-Y59)",
+            "eng_name": "Drugs, medicaments and biological substances causing adverse effects in therapeutic use(Y40-Y59)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7985699f-def0-4d7a-a016-53a62305f89a",
+            "code": "Y60-Y69",
+            "name": "Y60-Y69",
+            "kor_name": "외과적 및 내과적 치료 중 환자의 재난(Y60-Y69)",
+            "eng_name": "Misadventures to patients during surgical and medical care(Y60-Y69)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d553ef05-d4a4-4be4-871d-c04f7130d2b6",
+            "code": "Y70-Y82",
+            "name": "Y70-Y82",
+            "kor_name": "진단 및 치료용으로 사용시 유해사건과 관련된 의료장치(Y70-Y82)",
+            "eng_name": "Medical devices associated with adverse incidents in diagnostic and therapeutic use(Y70-Y82)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "98a66ebf-91d2-497e-95c2-5102b198899d",
+            "code": "Y85-Y89",
+            "name": "Y85-Y89",
+            "kor_name": "질병이환과 사망의 외인의 후유증(Y85-Y89)",
+            "eng_name": "Sequelae of external causes of morbidity and mortality(Y85-Y89)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "469759b8-85dd-42cd-908d-fc85f3d9cb46",
+            "code": "U12",
+            "name": "U12",
+            "kor_name": "치료용으로 사용시 유해작용을 나타내는 코로나-19 백신",
+            "eng_name": "COVID-19 vaccines causing adverse effects in therapeutic use",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "24c75a16-0d5e-4473-8bb8-ffbd7f781c46",
+            "code": "Y90-Y98",
+            "name": "Y90-Y98",
+            "kor_name": "달리 분류된 질병이환 및 사망원인에 관련된 보조요인(Y90-Y98)",
+            "eng_name": "Supplementary factors related to causes of morbidity and mortality classified elsewhere(Y90-Y98)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "716ee413-e0d5-45c7-bf11-24c215edc575",
+            "code": "Y83-Y84",
+            "name": "Y83-Y84",
+            "kor_name": "처치 당시에는 재난에 대한 언급이 없었으나 환자의 이상반응 또는 이후 합병증의 원인이 된 외과적 및 기타 내과적 처치(Y83-Y84)",
+            "eng_name": "Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure(Y83-Y84)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "86dd02f9-4779-4b57-b245-7a22b28e72f7",
+            "code": "Z31",
+            "name": "Z31",
+            "kor_name": "출산관리",
+            "eng_name": "Procreative management",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "574d7250-9094-4477-8d46-9dfe068bbcbe",
+            "code": "Z00-Z13",
+            "name": "Z00-Z13",
+            "kor_name": "검사 및 조사를 위해 보건서비스와 접하고 있는 사람(Z00-Z13)",
+            "eng_name": "Persons encountering health services for examination and investigation(Z00-Z13)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0ec75fd1-cdbd-4ea0-bf7a-a7d63afed6b0",
+            "code": "Z03",
+            "name": "Z03",
+            "kor_name": "의심되는 질병 및 병태를 위한 의학적 관찰 및 평가, 배제된",
+            "eng_name": "Medical observation and evaluation for suspected diseases and conditions, ruled out",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8395aa87-6390-45ea-b5f3-6c81b1952d25",
+            "code": "Z03.0",
+            "name": "Z03.0",
+            "kor_name": "의심되는 결핵의 관찰, 배제된",
+            "eng_name": "Observation for suspected tuberculosis, ruled out",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "abdaff28-c508-48bf-ad3e-4ef565c86ece",
+            "code": "Z03.1",
+            "name": "Z03.1",
+            "kor_name": "의심되는 악성 신생물에 대한 관찰, 배제된",
+            "eng_name": "Observation for suspected malignant neoplasm, ruled out",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "028146f1-76be-4884-884f-6d86ef845893",
+            "code": "Z03.2",
+            "name": "Z03.2",
+            "kor_name": "의심되는 정신 및 행동 장애에 대한 관찰, 배제된",
+            "eng_name": "Observation for suspected mental and behavioural disorders, ruled out",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "f82a61b0-78f2-449b-bfa8-194bd507fd7c",
+            "code": "Z03.3",
+            "name": "Z03.3",
+            "kor_name": "의심되는 신경계통장애의 관찰, 배제된",
+            "eng_name": "Observation for suspected nervous system disorder, ruled out",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e0090b42-98ec-49b4-aafc-d8d6be7b3273",
+            "code": "Z03.4",
+            "name": "Z03.4",
+            "kor_name": "의심되는 심근경색증의 관찰, 배제된",
+            "eng_name": "Observation for suspected myocardial infarction, ruled out",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "841044bd-3fd2-4a3f-85fe-623616ce23aa",
+            "code": "Z03.5",
+            "name": "Z03.5",
+            "kor_name": "기타 의심되는 심혈관질환의 관찰, 배제된",
+            "eng_name": "Observation for other suspected cardiovascular diseases, ruled out",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8c84dbc8-2ffe-46e9-a562-9f3b4f05d45c",
+            "code": "Z03.6",
+            "name": "Z03.6",
+            "kor_name": "섭취한 물질의 의심되는 독성효과의 관찰, 배제된",
+            "eng_name": "Observation for suspected toxic effect from ingested substance, ruled out",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9f01e959-6079-49e6-b5ff-12474c52f473",
+            "code": "Z03.8",
+            "name": "Z03.8",
+            "kor_name": "기타 의심되는 질환 및 병태의 관찰, 배제된",
+            "eng_name": "Observation for other suspected diseases and conditions, ruled out",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d9cc46ab-903d-476f-af91-441578a551c6",
+            "code": "Z03.9",
+            "name": "Z03.9",
+            "kor_name": "상세불명의 의심되는 질병 또는 병태의 관찰, 배제된",
+            "eng_name": "Observation for suspected disease or condition, unspecified, ruled out",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "370ab462-dd61-4ca5-a027-028596a934ec",
+            "code": "Z13",
+            "name": "Z13",
+            "kor_name": "기타 질환 및 장애에 대한 특수선별검사",
+            "eng_name": "Special screening examination for other diseases and disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1dabe41c-cee3-4445-abe5-145ccf9e3f9d",
+            "code": "Z13.0",
+            "name": "Z13.0",
+            "kor_name": "혈액 및 조혈기관의 질환과 면역메커니즘을 침범한 특정 장애에 대한 특수선별검사",
+            "eng_name": "Special screening examination for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "17a50966-8d08-4588-b51d-afdacec61471",
+            "code": "Z13.1",
+            "name": "Z13.1",
+            "kor_name": "당뇨병에 대한 특수선별검사",
+            "eng_name": "Special screening examination for diabetes mellitus",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1974b3c1-02bd-4f51-a270-82469489f87c",
+            "code": "Z13.2",
+            "name": "Z13.2",
+            "kor_name": "영양장애에 대한 특수선별검사",
+            "eng_name": "Special screening examination for nutritional disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c759afb9-c33e-43a3-b9e6-89094c1b95db",
+            "code": "Z13.3",
+            "name": "Z13.3",
+            "kor_name": "정신 및 행동 장애에 대한 특수선별검사",
+            "eng_name": "Special screening examination for mental and behavioural disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d6ee4cbc-9712-4773-a863-c8b52eda9f9f",
+            "code": "Z13.4",
+            "name": "Z13.4",
+            "kor_name": "소아의 특정 발달장애에 대한 특수선별검사",
+            "eng_name": "Special screening examination for certain developmental disorders in childhood",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "a1aeeb25-e9c4-4982-9bd4-1e1d8167058e",
+            "code": "Z13.5",
+            "name": "Z13.5",
+            "kor_name": "눈 및 귀 장애에 대한 특수선별검사",
+            "eng_name": "Special screening examination for eye and ear disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c5639f3a-d637-4543-8b3f-372185274f1a",
+            "code": "Z13.6",
+            "name": "Z13.6",
+            "kor_name": "심혈관장애에 대한 특수선별검사",
+            "eng_name": "Special screening examination for cardiovascular disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5fa88a80-acfb-4ea6-81bb-f7b134f88bc4",
+            "code": "Z13.7",
+            "name": "Z13.7",
+            "kor_name": "선천기형, 변형 및 염색체이상에 대한 특수선별검사",
+            "eng_name": "Special screening examination for congenital malformations, deformations and chromosomal abnormalities",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "74e5b155-f631-47a9-903d-14c6d00fcd1f",
+            "code": "Z13.8",
+            "name": "Z13.8",
+            "kor_name": "기타 명시된 질환 및 장애에 대한 특수선별검사",
+            "eng_name": "Special screening examination for other specified diseases and disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "76f08f42-d050-4bf3-bfe6-f824c2fb7ce4",
+            "code": "Z13.9",
+            "name": "Z13.9",
+            "kor_name": "상세불명의 특수선별검사",
+            "eng_name": "Special screening examination, unspecified",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "53bd5b88-62f5-4632-8739-78ed6f04511b",
+            "code": "Z20-Z29",
+            "name": "Z20-Z29",
+            "kor_name": "전염성 질환과 관련되어 잠재적인 건강위험이 있는 사람(Z20-Z29)",
+            "eng_name": "Persons with potential health hazards related to communicable diseases(Z20-Z29)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "23e17919-a0d3-451b-94df-2dc9cf1a84f4",
+            "code": "Z30",
+            "name": "Z30",
+            "kor_name": "피임관리",
+            "eng_name": "Contraceptive management",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "fae443df-89d5-411c-a1ad-6a09d3437377",
+            "code": "Z32",
+            "name": "Z32",
+            "kor_name": "임신검사",
+            "eng_name": "Pregnancy examination and test",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5959ccf9-a3dd-4ca5-8b8c-d9d7939d4930",
+            "code": "Z33",
+            "name": "Z33",
+            "kor_name": "우연히 확인된 임신상태",
+            "eng_name": "Pregnant state, incidental",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "fcee3de2-9241-4e65-b3be-013f2f9e6cd6",
+            "code": "Z34",
+            "name": "Z34",
+            "kor_name": "정상임신의 관리",
+            "eng_name": "Supervision of normal pregnancy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b75cfc42-b7ff-4ba6-9ee5-bed97e440a15",
+            "code": "Z35",
+            "name": "Z35",
+            "kor_name": "고위험임신의 관리",
+            "eng_name": "Supervision of high-risk pregnancy",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c1babafc-72ff-48af-95fc-6fb5dc0e2693",
+            "code": "Z38",
+            "name": "Z38",
+            "kor_name": "출산장소에 따른 생존출생",
+            "eng_name": "Liveborn infants according to place of birth",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c9e4e21d-df8c-45ce-8f84-5e155c30c4e4",
+            "code": "Z36",
+            "name": "Z36",
+            "kor_name": "출산전 선별검사",
+            "eng_name": "Antenatal screening",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b40dfee5-add7-4f66-8f32-3ed1f5a04336",
+            "code": "Z37",
+            "name": "Z37",
+            "kor_name": "분만의 결과",
+            "eng_name": "Outcome of delivery",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e4a47662-6547-4c1a-bac3-4fc8ad052689",
+            "code": "Z39",
+            "name": "Z39",
+            "kor_name": "분만후 관리 및 검사",
+            "eng_name": "Postpartum care and examination",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "dada3ca7-a50d-4e53-acf3-0a2b2adce594",
+            "code": "Z40-Z54",
+            "name": "Z40-Z54",
+            "kor_name": "특정 처치 및 건강관리를 위하여 보건서비스와 접하고 있는 사람(Z40-Z54)",
+            "eng_name": "Persons encountering health services for specific procedures and health care(Z40-Z54)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e66d4a1f-57cf-4c99-95bf-15873b162f1b",
+            "code": "Z55-Z65",
+            "name": "Z55-Z65",
+            "kor_name": "사회경제적 및 정신사회적 상황에 관련된 잠재적 보건위험이 있는 사람(Z55-Z65)",
+            "eng_name": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances(Z55-Z65)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4dba63b8-aa11-473a-adf7-7135c719b9fe",
+            "code": "Z70-Z76",
+            "name": "Z70-Z76",
+            "kor_name": "기타 상황에서 보건서비스와 접하고 있는 사람(Z70-Z76)",
+            "eng_name": "Persons encountering health services in other circumstances(Z70-Z76)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "8879e72f-f3ff-4b8a-8e1e-f08d14c42ee6",
+            "code": "Z80-Z99",
+            "name": "Z80-Z99",
+            "kor_name": "가족 및 개인 기왕력과 건강상태에 영향을 주는 특정 병태에 관련된 잠재적 건강위험을 가진 사람(Z80-Z99)",
+            "eng_name": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status(Z80-Z99)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4307bc8a-976b-4fa7-9758-4a5e751a6007",
+            "code": "U11",
+            "name": "U11",
+            "kor_name": "코로나-19에 대한 예방접종의 필요",
+            "eng_name": "Need for immunization against COVID-19",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "aeb6de23-7637-4f02-ba1b-3f210cabcd30",
+            "code": "U04",
+            "name": "U04",
+            "kor_name": "중증급성호흡증후군[SARS]",
+            "eng_name": "Severe acute respiratory syndrome[SARS]",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5bb669d3-58ca-4165-bd46-e01105da7678",
+            "code": "U18",
+            "name": "U18",
+            "kor_name": "신종질환의 국내 임시적 지정이나 응급사용",
+            "eng_name": "Provisional assignment of new diseases or emergency use at a national level",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "01fd2c77-22ca-4410-af29-1c22e9cb5c31",
+            "code": "U18.0",
+            "name": "U18.0",
+            "kor_name": "중동호흡기증후군 [MERS]",
+            "eng_name": "Middle east respiratory syndrome [MERS]",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e477e9b8-666b-4ea7-9a3f-e0a5ad3310ab",
+            "code": "B33-B34",
+            "name": "B33-B34",
+            "kor_name": "달리 분류되지 않은 기타 바이러스질환, 상세불명 부위의 바이러스감염",
+            "eng_name": "Other viral diseases, NEC, Viral infection of unspecified site",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e72f8df4-7134-4f2c-921c-51b37edfd247",
+            "code": "C19-C20",
+            "name": "C19-C20",
+            "kor_name": "직장구불결장접합부의 악성 신생물, 직장의 악성 신생물",
+            "eng_name": "Malignant neoplasm of rectosigmoid junction, Malignant neoplasm of rectum",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "d6648a79-cb8c-4e73-ba74-404430f244c4",
+            "code": "C70-C72",
+            "name": "C70-C72",
+            "kor_name": "수막의 악성 신생물, 뇌의 악성 신생물, 척수, 뇌신경 및 중추 신경계통의 기타 부분의 악성 신생물",
+            "eng_name": "Malignant neoplasm of meninges, Malignant neoplasm of brain, Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9044b245-c25b-4f83-80bc-c601cacfd0e5",
+            "code": "I44-I49",
+            "name": "I44-I49",
+            "kor_name": "I44-I49",
+            "eng_name": "I44-I49",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "02126516-976c-45bf-a3af-f42baf09c0c4",
+            "code": "E40-E64",
+            "name": "E40-E64",
+            "kor_name": "E40-E64",
+            "eng_name": "E40-E64",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b9a9802d-5e3f-421f-8163-ed92cf98c806",
+            "code": "I63-I69",
+            "name": "I63-I69",
+            "kor_name": "I63-I69",
+            "eng_name": "I63-I69",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3ed47cb0-608a-4523-806a-521db328d008",
+            "code": "J00-J39",
+            "name": "J00-J39",
+            "kor_name": "J00-J39",
+            "eng_name": "J00-J39",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "69d4a4ef-3aa0-4a2d-9455-4f0c85fdc1c6",
+            "code": "K00-K09",
+            "name": "K00-K09",
+            "kor_name": "K00-K09",
+            "eng_name": "K00-K09",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6cdb8c6e-9640-44ea-aee1-043336015216",
+            "code": "V01-V99",
+            "name": "V01-V99",
+            "kor_name": "V01-V99",
+            "eng_name": "V01-V99",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b686b102-0f9e-4ac9-bccb-b0c06f12ad99",
+            "code": "X00-X19",
+            "name": "X00-X19",
+            "kor_name": "X00-X19",
+            "eng_name": "X00-X19",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "933ed774-ec34-4dfe-9913-115385111d93",
+            "code": "C79-C80",
+            "name": "C79-C80",
+            "kor_name": "기타 및 상세불명 부위의 이차성 악성 신생물, 부위의 명시가 없는 악성 신생물",
+            "eng_name": "Secondary malignant neoplasm of other and unspecified sites, Malignant neoplasm without specification of site",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c67fe403-35dc-4eb8-8c37-3c5a982af003",
+            "code": "D01.0-D01.4",
+            "name": "D01.0-D01.4",
+            "kor_name": "결장의 제자리암종, 직장구불결장접합부의 제자리암종, 직장의 제자리암종 , 항문 및 항문관의 제자리암종 , 기타 및 상세불명 부분의 장의 제자리암종",
+            "eng_name": "Carcinoma in situ of colon, Carcinoma in situ of rectosigmoid junction, Carcinoma in situ of rectum, Carcinoma in situ of anus and anal canal, Carcinoma in situ of other and unspecified parts of intestine",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "dad06817-5f04-404b-89bf-27fa3b5b0f14",
+            "code": "D10-D11",
+            "name": "D10-D11",
+            "kor_name": "입 및 인두의 양성 신생물, 주침샘의 양성 신생물",
+            "eng_name": "Benign neoplasm of mouth and pharynx, Benign neoplasm of major salivary glands",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "3bceb61b-96d8-4a9a-9d14-6ded4d4040fa",
+            "code": "D13.0-D13.3",
+            "name": "D13.0-D13.3",
+            "kor_name": "식도의 양성 신생물, 위의 양성 신생물 , 십이지장의 양성 신생물, 기타 및 상세불명 부분 소장의 양성 신생물",
+            "eng_name": "Benign neoplasm of oesophagus, Benign neoplasm of stomach, Benign neoplasm of duodenum, Benign neoplasm of other and unspecified parts of small intestine",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c34ce422-f9d3-4990-8611-943d690219e4",
+            "code": "D13.6-D13.7",
+            "name": "D13.6-D13.7",
+            "kor_name": "췌장의 양성 신생물, 내분비췌장의 양성 신생물",
+            "eng_name": "Benign neoplasm of pancreas, Benign neoplasm of endocrine pancreas",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9b06c00a-5f35-4d55-a386-616b1dfebade",
+            "code": "D21-D23",
+            "name": "D21-D23",
+            "kor_name": "결합조직 및 기타 연조직의 기타 양성 신생물, 멜라닌세포모반, 피부의 기타 양성 신생물",
+            "eng_name": "Other benign neoplasms of connective and other soft tissue, Melanocytic naevi, Other benign neoplasms of skin",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "cc513603-c609-461f-a3b3-31773e3576ea",
+            "code": "D25-D28",
+            "name": "D25-D28",
+            "kor_name": "자궁의 평활근종, 자궁의 기타 양성 신생물, 난소의 양성 신생물, 기타 및 상세불명의 여성생식기관의 양성 신생물",
+            "eng_name": "Leiomyoma of uterus, Other benign neoplasms of uterus, Benign neoplasm of ovary, Benign neoplasm of other and unspecified female genital organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5700d4c2-958a-4203-b12d-aaeaf4567c76",
+            "code": "D32-D33",
+            "name": "D32-D33",
+            "kor_name": "수막의 양성 신생물, 뇌 및 중추신경계통의 기타 부분의 양성 신생물",
+            "eng_name": "Benign neoplasm of meninges, Benign neoplasm of brain and other parts of central nervous system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "751ae996-044e-4a4a-8fa2-f62702af2d44",
+            "code": "D09.0-D09.1",
+            "name": "D90.0-D90.1",
+            "kor_name": "방광의 제자리암종, 기타 및 상세불명의 비뇨기관의 제자리암종",
+            "eng_name": "Carcinoma in situ of bladder, Carcinoma in situ of other and unspecified urinary organs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "103ea603-2a63-4423-98cd-ec05d75aa474",
+            "code": "D42-D43",
+            "name": "D42-D43",
+            "kor_name": "수막의 행동양식 불명 또는 미상의 신생물, 뇌 및 중추신경계통의 행동양식 불명 또는 미상의 신생물",
+            "eng_name": "Neoplasm of uncertain or unknown behaviour of meninges, Neoplasm of uncertain or unknown behaviour of brain and central nervous system",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b708c585-70d9-47b2-823d-3490729acf15",
+            "code": "E24-E27",
+            "name": "E24-E27",
+            "kor_name": "쿠싱증후군, 부신생식기장애, 고알도스테론증, 부신의 기타 장애",
+            "eng_name": "Cushing’s syndrome, Adrenogenital disorders, Hyperaldosteronism, Other disorders of adrenal gland",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1ae6f47c-aa4b-4fb1-80f1-f853332f8597",
+            "code": "E20-E21",
+            "name": "E20-E21",
+            "kor_name": "부갑상선기능저하증, 부갑상선기능항진증 및 부갑상선의 기타 장애",
+            "eng_name": "Hypoparathyroidism, Hyperparathyroidism and other disorders of parathyroid gland",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "82f7a291-2baa-45fe-99c6-b7194fe8fdca",
+            "code": "E22-E23",
+            "name": "E22-E23",
+            "kor_name": "뇌하수체의 기능항진, 뇌하수체의 기능저하 및 기타 장애",
+            "eng_name": "Hyperfunction of pituitary gland, Hypofunction and other disorders of pituitary gland",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ba7e58eb-0c9c-4725-97f1-ee2c719352d7",
+            "code": "E34-E35",
+            "name": "E34-E35",
+            "kor_name": "기타 내분비장애, 달리 분류된 질환에서의 내분비선장애",
+            "eng_name": "Other endocrine disorders, Disorders of endocrine glands in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5452d153-ea5a-44fe-9379-2e54008a4159",
+            "code": "G40-G41",
+            "name": "G40-G41",
+            "kor_name": "뇌전증, 뇌전증지속상태",
+            "eng_name": "Epilepsy, Status epilepticus",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7dbbb1d4-446b-4c57-ad07-be91da8a5dfc",
+            "code": "G45-G46",
+            "name": "G45-G46",
+            "kor_name": "일과성 뇌허혈발작 및 관련 증후군, 뇌혈관질환에서의 뇌의 혈관증후군(I60-I67†)",
+            "eng_name": "Transient cerebral ischaemic attacks and related syndromes, Vascular syndromes of brain in cerebro- vascular diseases(I60-I67†)",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6aa8ba58-aede-4250-8c07-9cea28761eca",
+            "code": "G52-G53",
+            "name": "G52-G53",
+            "kor_name": "기타 뇌신경의 장애, 달리 분류된 질환에서의 뇌신경장애",
+            "eng_name": "Disorders of other cranial nerves, Cranial nerve disorders in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "57b1316b-032a-4f2d-8cd9-e4e17e11941a",
+            "code": "G58-G59",
+            "name": "G58-G59",
+            "kor_name": "기타 단일신경병증, 달리 분류된 질환에서의 단일신경병증",
+            "eng_name": "Other mononeuropathies, Mononeuropathy in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "cf8b810a-4160-4b73-9154-3667f46949f4",
+            "code": "G81-G83",
+            "name": "G81-G83",
+            "kor_name": "편마비, 하반신마비 및 사지마비, 기타 마비증후군",
+            "eng_name": "Hemiplegia, Paraplegia and tetraplegia, Other paralytic syndromes",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "14259e50-3baf-4e4b-a159-a12f4b8876e7",
+            "code": "G92-G94",
+            "name": "G92-G94",
+            "kor_name": "독성뇌병증, 뇌의 기타 장애, 달리 분류된 질환에서의 뇌의 기타 장애",
+            "eng_name": "Toxic encephalopathy, Other disorders of brain, Other disorders of brain in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b05db5cf-2ccf-4e78-aafd-9af18f625e6e",
+            "code": "G98-G99",
+            "name": "G98-G99",
+            "kor_name": "달리 분류되지 않은 신경계통의 기타 장애, 달리 분류된 질환에서의 신경계통의 기타 장애",
+            "eng_name": "Other disorders of nervous system, NEC, Other disorders of nervous system in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1aa73ecc-197c-422d-a55e-f41d7b879982",
+            "code": "H90-H91",
+            "name": "H90-H91",
+            "kor_name": "전음성 및 감각신경성 청력소실, 기타 청력소실",
+            "eng_name": "Conductive and sensorineural hearing loss, Other hearing loss",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ce6487bc-0488-43b8-9a1a-7a104030cdce",
+            "code": "H93-H95",
+            "name": "H93-H95",
+            "kor_name": "달리 분류되지 않은 귀의 기타 장애, 달리 분류된 질환에서의 귀의 기타 장애, 달리 분류되지 않은 귀 및 유돌의 처치후 장애",
+            "eng_name": "Other disorders of ear, NEC, Other disorders of ear in diseases classified elsewhere, Postprocedural disorders of ear and mastoid process, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "9964dee0-040c-4a2e-8bef-e7144df9a73f",
+            "code": "I30-I33",
+            "name": "I30-I33",
+            "kor_name": "급성 심장막염, 심장막의 기타 질환, 달리 분류된 질환에서의 심장막염, 급성 및 아급성 심내막염",
+            "eng_name": "Acute pericarditis, Other diseases of pericardium, Pericarditis in diseases classified elsewhere, Acute and subacute endocarditis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ce121ed8-aea0-431e-83df-86525cefe334",
+            "code": "I34-I37",
+            "name": "I34-I37",
+            "kor_name": "비류마티스성 승모판장애, 비류마티스성 대동맥판장애, 비류마티스성 삼첨판장애, 폐동맥판장애",
+            "eng_name": "Nonrheumatic mitral valve disorders, Nonrheumatic aortic valve disorders, Nonrheumatic tricuspid valve disorders, Pulmonary valve disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "48da7e7a-2893-4aef-9d2f-a32658e93d60",
+            "code": "I38-I41",
+            "name": "I38-I41",
+            "kor_name": "상세불명 판막의 심내막염, 달리 분류된 질환에서의 심내막염 및 심장판막장애, 급성 심근염, 달리 분류된 질환에서의 심근염",
+            "eng_name": "Endocarditis, valve unspecified, Endocarditis and heart valve disorders in diseases classified elsewhere, Acute myocarditis, Myocarditis in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "641175c7-e86b-4d90-9040-f9e71bb3f461",
+            "code": "I42-I43",
+            "name": "I42-I43",
+            "kor_name": "심근병증, 달리 분류된 질환에서의 심근병증",
+            "eng_name": "Cardiomyopathy, Cardiomyopathy in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "612f7931-b0ba-4f1d-a457-6af42f52bbc0",
+            "code": "I51-I52",
+            "name": "I51-I52",
+            "kor_name": "심장병의 불명확한 기록 및 합병증, 달리 분류된 질환에서의 기타 심장장애",
+            "eng_name": "Complications and ill-defined descriptions of heart disease, Other heart disorders in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "bb6aaa9d-6f6e-4aa0-97ba-c540e73797e0",
+            "code": "I60-I62",
+            "name": "I60-I62",
+            "kor_name": "거미막하출혈, 뇌내출혈, 기타 비외상성 두개내출혈",
+            "eng_name": "Subarachnoid haemorrhage, Intracerebral haemorrhage, Other nontraumatic intracranial haemorrhage",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6b16dfee-1d19-4c9e-b75a-f9c66f20f8f1",
+            "code": "I71-I72",
+            "name": "I71-I72",
+            "kor_name": "대동맥동맥류 및 박리, 기타 동맥류 및 박리",
+            "eng_name": "Aortic aneurysm and dissection, Other aneurysm and dissection",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "b3f95bbc-4ded-4fb0-8c14-2512c31842b3",
+            "code": "I77-I80",
+            "name": "I77-I80",
+            "kor_name": "동맥 및 세동맥의 기타 장애, 모세혈관의 질환, 달리 분류된 질환에서의 동맥, 세동맥 및 모세혈관의 장애, 정맥염 및 혈전정맥염",
+            "eng_name": "Other disorders of arteries and arterioles, Diseases of capillaries, Disorders of arteries, arterioles and capillaries in diseases classified elsewhere, Phlebitis and thrombophlebitis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2b45620a-956f-40a4-a502-9c67e6b1a8de",
+            "code": "K20-K23",
+            "name": "K20-K23",
+            "kor_name": "식도염, 위-식도역류병, 식도의 기타 질환, 달리 분류된 질환에서의 식도의 장애",
+            "eng_name": "Oesophagitis, Gastro-oesophageal reflux disease, Other diseases of oesophagus, Disorders of oesophagus in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "34853c09-bd8e-4458-8393-4557dea026c2",
+            "code": "K25-K29",
+            "name": "K25-K29",
+            "kor_name": "위궤양, 십이지장궤양, 상세불명 부위의 소화성 궤양, 위공장궤양, 위염 및 십이지장염",
+            "eng_name": "Gastric ulcer, Duodenal ulcer, Peptic ulcer, site unspecified, Gastrojejunal ulcer, Gastritis and duodenitis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6b71c256-1d71-4c65-8403-049cdd1c68e9",
+            "code": "K40-K41",
+            "name": "K40-K41",
+            "kor_name": "사타구니탈장, 대퇴탈장",
+            "eng_name": "Inguinal hernia, Femoral hernia",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "03cbe0b2-b849-4abf-87dd-c5deebd92672",
+            "code": "K42-K43",
+            "name": "K42-K43",
+            "kor_name": "배꼽탈장, 복벽탈장",
+            "eng_name": "Umbilical hernia, Ventral hernia",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e4f0936f-7698-47cb-970c-c6eb466fca99",
+            "code": "K45-K46",
+            "name": "K45-K46",
+            "kor_name": "기타 복부탈장, 상세불명의 복부탈장",
+            "eng_name": "Other abdominal hernia, Unspecified abdominal hernia",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c17bd12b-10b3-4065-ad5e-b74e089ed076",
+            "code": "K60-K61",
+            "name": "K60-K61",
+            "kor_name": "항문 및 직장부의 열창 및 누공, 항문 및 직장부의 농양",
+            "eng_name": "Fissure and fistula of anal and rectal regions, Abscess of anal and rectal regions",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0322b819-35c6-4a0a-a294-d4ca40830f95",
+            "code": "K62.0-K62.1",
+            "name": "K62.0-K62.1",
+            "kor_name": "항문폴립, 직장폴립",
+            "eng_name": "Anal polyp, Rectal polyp",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "41577648-aa2c-4649-a0b2-d32fe1c006ee",
+            "code": "K62.2-K62.3",
+            "name": "K62.2-K62.3",
+            "kor_name": "항문탈출, 직장탈출",
+            "eng_name": "Anal prolapse, Rectal prolapse",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1d460eaf-067f-4536-bddf-c10e18f92779",
+            "code": "K62.4-K62.9",
+            "name": "K62.4-K62.9",
+            "kor_name": "항문 및 직장의 협착, 항문 및 직장의 출혈, 항문 및 직장의 궤양, 방사선직장염, 항문 및 직장의 기타 명시된 질환, 항문 및 직장의 상세불명 질환",
+            "eng_name": "Stenosis of anus and rectum, Haemorrhage of anus and rectum, Ulcer of anus and rectum, Radiation proctitis, Other specified diseases of anus and rectum, Disease of anus and rectum, unspecified",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "61ab2c63-086f-4480-9481-00b7946d2277",
+            "code": "K63.0-K63.3",
+            "name": "K63.0-K63.3",
+            "kor_name": "장의 농양, 장의 천공(비외상성), 장의 누공, 장의 궤양",
+            "eng_name": "Abscess of intestine, Perforation of intestine(nontraumatic), Fistula of intestine, Ulcer of intestine",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "17fda2eb-f4ba-4b93-b59a-08b0961375aa",
+            "code": "K63.8-K63.9",
+            "name": "K63.8-K63.9",
+            "kor_name": "장의 기타 명시된 질환, 장의 상세불명 질환",
+            "eng_name": "Other specified diseases of intestine, Disease of intestine, unspecified",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "347ba902-64e2-4abe-b92a-7e1832a71396",
+            "code": "K70-K74",
+            "name": "K70-K74",
+            "kor_name": "알코올성 간질환, 독성간질환, 달리 분류되지 않은 간부전, 달리 분류되지 않은 만성 간염, 간의 섬유증 및 경변증",
+            "eng_name": "Alcoholic liver disease, Toxic liver disease, Hepatic failure, NEC, Chronic hepatitis, NEC, Fibrosis and cirrhosis of liver",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "c2196e8d-2aca-49f6-a0d5-ffd123da1b6b",
+            "code": "K76-K77",
+            "name": "K76-K77",
+            "kor_name": "간의 기타 질환, 달리 분류된 질환에서의 간장애",
+            "eng_name": "Other diseases of liver, Liver disorders in disease classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "be8ef90b-3e46-4c00-bf58-63bcd11d92cc",
+            "code": "K80-K83",
+            "name": "K80-K83",
+            "kor_name": "담석증, 담낭염, 담낭의 기타 질환, 담도의 기타 질환",
+            "eng_name": "Cholelithiasis, Cholecystitis, Other diseases of gallbladder, Other diseases of biliary tract",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4b419d7b-1630-4b33-8474-78e79a2a64cd",
+            "code": "K85-K86",
+            "name": "K85-K86",
+            "kor_name": "급성 췌장염, 췌장의 기타 질환",
+            "eng_name": "Acute pancreatitis, Other diseases of pancreas",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "96548aa5-ab8c-4fb3-bb8b-ac87eb20abbc",
+            "code": "L60-L62",
+            "name": "L60-L62",
+            "kor_name": "손발톱장애, 달리 분류된 질환에서의 손발톱장애",
+            "eng_name": "Nail disorders, Nail disorders in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6ad36ed6-cca4-441c-9d5d-b1348da5f6ab",
+            "code": "L63-L66",
+            "name": "L63-L66",
+            "kor_name": "원형 탈모증, 안드로젠탈모증, 기타 비흉터성 모발손실, 흉터탈모증[흉터성 모발손실]",
+            "eng_name": "Alopecia areata, Androgenic alopecia, Other nonscarring hair loss, Cicatricial alopecia [scarring hair loss]",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e12412b1-abbf-4c62-a7a3-99499e611cf4",
+            "code": "L72-L75",
+            "name": "L72-L75",
+            "kor_name": "피부 및 피하조직의 모낭낭, 기타 모낭장애, 에크린땀샘장애, 아포크린땀샘장애",
+            "eng_name": "Follicular cysts of skin and subcutaneous tissue, Other follicular disorders, Eccrine sweat disorders, Apocrine sweat disorders",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0a4b78cf-74e0-4f82-8f47-b7da9b50b342",
+            "code": "M05-M06",
+            "name": "M05-M06",
+            "kor_name": "혈청검사양성 류마티스관절염, 기타 류마티스관절염",
+            "eng_name": "Seropositive rheumatoid arthritis, Other rheumatoid arthritis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "5973ec79-5022-43e8-b6f8-3db6ec9705b2",
+            "code": "M08-M09",
+            "name": "M08-M09",
+            "kor_name": "연소성 관절염, 달리 분류된 질환에서의 연소성 관절염",
+            "eng_name": "Juvenile arthritis, Juvenile arthritis in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ff3e8327-b610-44fa-816f-107b34e3a2e4",
+            "code": "M13-M14",
+            "name": "M13-M14",
+            "kor_name": "기타 관절염, 달리 분류된 기타 질환에서의 관절병증",
+            "eng_name": "Other arthritis, Arthropathies in other diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "4d8c712f-095e-4774-b458-6aaf77e005d9",
+            "code": "M20-M21",
+            "name": "M20-M21",
+            "kor_name": "손가락 및 발가락의 후천변형, 사지의 기타 후천변형",
+            "eng_name": "Acquired deformities of fingers and toes, Other acquired deformities of limbs",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "e233db20-9686-4625-a06e-ce81cb2e9ce5",
+            "code": "M22-M23",
+            "name": "M22-M23",
+            "kor_name": "무릎뼈의 장애, 무릎의 내부장애",
+            "eng_name": "Disorders of patella, Internal derangement of knee",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "dc8a9536-ce04-4765-ab05-bed54d7e155c",
+            "code": "M24-M25",
+            "name": "M24-M25",
+            "kor_name": "기타 특정 관절장애, 달리 분류되지 않은 기타 관절장애",
+            "eng_name": "Other specific joint derangements, Other joint disorders, NEC",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "51d319cb-7ba5-478d-9391-25923422fa72",
+            "code": "N40-N42",
+            "name": "N40-N42",
+            "kor_name": "전립선증식증, 전립선의 염증성 질환, 전립선의 기타 장애",
+            "eng_name": "Hyperplasia of prostate, Inflammatory diseases of prostate, Other disorders of prostate",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "2fc47a2c-48c8-484b-bd54-7f3eb7aec039",
+            "code": "N44-N45",
+            "name": "N44-N45",
+            "kor_name": "고환의 염전, 고환염 및 부고환염",
+            "eng_name": "Torsion of testis, Orchitis and epididymitis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "0747c84f-f312-4d95-b5d9-ba807b005a97",
+            "code": "N47-N48",
+            "name": "N47-N48",
+            "kor_name": "과잉포피, 포경 및 감돈포경, 음경의 기타 장애",
+            "eng_name": "Redundant prepuce, phimosis and paraphimosis, Other disorders of penis",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1d3aa579-b990-447b-9a38-736d984e6499",
+            "code": "N49-N51",
+            "name": "N49-N51",
+            "kor_name": "달리 분류되지 않은 남성생식기관의 염증성 장애, 남성생식기관의 기타 장애, 달리 분류된 질환에서의 남성생식기관의 장애",
+            "eng_name": "Inflammatory disorders of male genital organs, NEC, Other disorders of male genital organs, Disorders of male genital organs in diseases classified elsewhere",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "fd38de47-e2e3-494c-b6b9-f2e75a2eeb83",
+            "code": "Q10-Q15",
+            "name": "Q10-Q15",
+            "kor_name": "눈꺼풀, 눈물기관 및 안와의 선천기형, 무안구증, 소안구증 및 대안구증, 선천성 수정체기형, 전안부의 선천기형, 후안부의 선천기형, 눈의 기타 선천기형",
+            "eng_name": "Congenital malformations of eyelid, lacrimal apparatus and orbit, Anophthalmos, microphthalmos and macrophthalmos, Congenital lens malformations, Congenital malformations of anterior segment of eye, Congenital malformations of posterior segment of eye, Other congenital malformations of eye",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "10bdeb55-870f-413c-84d2-25bf2750aaa4",
+            "code": "Q16-Q17",
+            "name": "Q16-Q17",
+            "kor_name": "청력장애를 유발하는 귀의 선천기형, 귀의 기타 선천기형",
+            "eng_name": "Congenital malformations of ear causing impairment of hearing, Other congenital malformations of ear",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "49a6d3ee-9c64-4ddb-85e0-ed78c4a16cde",
+            "code": "R00-R01",
+            "name": "R00-R01",
+            "kor_name": "심장박동의 이상, 심잡음 및 기타 심음",
+            "eng_name": "Abnormalities of heart beat, Cardiac murmurs and other cardiac sounds",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7c8eb642-d21e-4338-9bc6-d59544f56d19",
+            "code": "R25-R27",
+            "name": "R25-R27",
+            "kor_name": "이상불수의운동, 보행과 이동의 이상, 기타 협조결여",
+            "eng_name": "Abnormal involuntary movements, Abnormalities of gait and mobility, Other lack of coordination",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "1f65dd0b-db3b-44fb-8693-60c39108c1cf",
+            "code": "R70-R71",
+            "name": "R70-R71",
+            "kor_name": "적혈구침강속도의 상승 및 혈장점도의 이상, 적혈구의 이상",
+            "eng_name": "Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity, Abnormality of red blood cells",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "7b0619b3-263e-4db3-8e41-b3c6d69b160a",
+            "code": "U08-U10",
+            "name": "U08-U10",
+            "kor_name": "코로나-19의 개인력, 코로나-19 이후 병태, 코로나-19와 관련된 다발계통염증성증후군",
+            "eng_name": "Personal history of COVID-19, Post COVID-19 condition, Multisystem inflammatory syndrome associated with COVID-19",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "6f79ff83-e42a-4711-9c06-02b192667197",
+            "code": "A15-A16",
+            "name": "A15-A16",
+            "kor_name": "세균학적 및 조직학적으로 확인된 호흡기결핵, 세균학적으로나 조직학적으로 확인되지 않은 호흡기결핵",
+            "eng_name": "Respiratory tuberculosis, bacteriologically and histologically confirmed, Respiratory tuberculosis, not confirmed bacteriologically or histologically",
+            "department": "UNASSIGNED"
+        },
+        {
+            "id": "ed6c8ae2-2716-441f-b030-84bf303e4aed",
+            "code": "A17",
+            "name": "A17",
+            "kor_name": "신경계통의 결핵",
+            "eng_name": "Tuberculosis of nervous system",
+            "department": "UNASSIGNED"
+        }
+    ]
+}
